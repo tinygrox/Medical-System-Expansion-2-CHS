@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install elbow blade module -->
+  <InstallElbowBladeModule.label>TODO</InstallElbowBladeModule.label>
+  <!-- EN: Install an elbow blade module. -->
+  <InstallElbowBladeModule.description>TODO</InstallElbowBladeModule.description>
+  <!-- EN: Installing elbow blade module. -->
+  <InstallElbowBladeModule.jobString>TODO</InstallElbowBladeModule.jobString>
+  
+  <!-- EN: install hand talon module -->
+  <InstallHandTalonModule.label>TODO</InstallHandTalonModule.label>
+  <!-- EN: Install a hand talon module. -->
+  <InstallHandTalonModule.description>TODO</InstallHandTalonModule.description>
+  <!-- EN: Installing hand talon module. -->
+  <InstallHandTalonModule.jobString>TODO</InstallHandTalonModule.jobString>
+  
+  <!-- EN: install knee spike module -->
+  <InstallKneeSpikeModule.label>TODO</InstallKneeSpikeModule.label>
+  <!-- EN: Install a knee spike module. -->
+  <InstallKneeSpikeModule.description>TODO</InstallKneeSpikeModule.description>
+  <!-- EN: Installing knee spike module. -->
+  <InstallKneeSpikeModule.jobString>TODO</InstallKneeSpikeModule.jobString>
+  
+  <!-- EN: install venom talon module -->
+  <InstallVenomTalonModule.label>TODO</InstallVenomTalonModule.label>
+  <!-- EN: Install a venom talon module. -->
+  <InstallVenomTalonModule.description>TODO</InstallVenomTalonModule.description>
+  <!-- EN: Installing venom talon module. -->
+  <InstallVenomTalonModule.jobString>TODO</InstallVenomTalonModule.jobString>
+  
+</LanguageData>

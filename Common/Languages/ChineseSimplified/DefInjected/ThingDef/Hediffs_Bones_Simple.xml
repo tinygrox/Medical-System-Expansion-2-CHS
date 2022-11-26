@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prosthetic clavicle -->
+  <SimpleProstheticClavicle.label>TODO</SimpleProstheticClavicle.label>
+  <!-- EN: A clavicle prosthesis. It is inferior to a real clavicle. -->
+  <SimpleProstheticClavicle.description>TODO</SimpleProstheticClavicle.description>
+  
+  <!-- EN: prosthetic femur -->
+  <SimpleProstheticFemur.label>TODO</SimpleProstheticFemur.label>
+  <!-- EN: A femur prosthesis. It is inferior to a real femur. -->
+  <SimpleProstheticFemur.description>TODO</SimpleProstheticFemur.description>
+  
+  <!-- EN: prosthetic humerus -->
+  <SimpleProstheticHumerus.label>TODO</SimpleProstheticHumerus.label>
+  <!-- EN: A humerus prosthesis. It is inferior to a real humerus. -->
+  <SimpleProstheticHumerus.description>TODO</SimpleProstheticHumerus.description>
+  
+  <!-- EN: prosthetic radius -->
+  <SimpleProstheticRadius.label>TODO</SimpleProstheticRadius.label>
+  <!-- EN: A radius prosthesis. It is inferior to a real radius. -->
+  <SimpleProstheticRadius.description>TODO</SimpleProstheticRadius.description>
+  
+  <!-- EN: prosthetic sternum -->
+  <SimpleProstheticSternum.label>TODO</SimpleProstheticSternum.label>
+  <!-- EN: A sternum prosthesis. It is inferior to a real sternum. -->
+  <SimpleProstheticSternum.description>TODO</SimpleProstheticSternum.description>
+  
+  <!-- EN: prosthetic tibia -->
+  <SimpleProstheticTibia.label>TODO</SimpleProstheticTibia.label>
+  <!-- EN: A tibia prosthesis. It is inferior to a real tibia. -->
+  <SimpleProstheticTibia.description>TODO</SimpleProstheticTibia.description>
+  
+</LanguageData>

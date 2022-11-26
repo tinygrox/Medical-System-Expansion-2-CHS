@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drill arm -->
+  <DrillArm.label>挖掘臂</DrillArm.label>
+  <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <DrillArm.description>一款加快挖掘速度的机械手臂。内置了蛇形钻杆，可以帮助矿工更快地找到岩石中的弱点。此外还配备了通用机械手，它有点笨拙，这会稍微影响到移动能力。</DrillArm.description>
+  
+  <!-- EN: field finger -->
+  <FieldFinger.label>TODO</FieldFinger.label>
+  <!-- EN: This mechanical finger replacement is made to speed up the sowing and harvesting tasks of a farmer, it can harvest from several points on the same plant, or precisely sow several holes at once. Can only be installed on a field hand. -->
+  <FieldFinger.description>TODO</FieldFinger.description>
+  
+  <!-- EN: field hand -->
+  <FieldHand.label>务农手</FieldHand.label>
+  <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <FieldHand.description>一款可以加快播种和收割的机械手掌，多个可收缩的指状凸起可以从一株的多个点进行收货，或者同时播种多棵植物。此外还配备了通用机械手，它有点笨拙，这会稍微影响到移动能力。</FieldHand.description>
+  
+  <!-- EN: mechanical finger -->
+  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <!-- EN: A general purpose mechanical finger. Can only be installed on a mechanical manipulator. -->
+  <MechanicalFinger.description>TODO</MechanicalFinger.description>
+  
+  <!-- EN: mechanical internal support -->
+  <MechanicalInternalSupport.label>TODO</MechanicalInternalSupport.label>
+  <!-- EN: A mechanical internal support. Useful replacement part to have when some internal component of a drill arm is broken. -->
+  <MechanicalInternalSupport.description>TODO</MechanicalInternalSupport.description>
+  
+  <!-- EN: mechanical manipulator -->
+  <MechanicalManipulator.label>TODO</MechanicalManipulator.label>
+  <!-- EN: A general-purpose manipulator, not as good as normal hand but better than nothing. Can only be installed on a drill arm. -->
+  <MechanicalManipulator.description>TODO</MechanicalManipulator.description>
+  
+</LanguageData>

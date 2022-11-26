@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>仿生臂</BionicArm.label>
+  <!-- EN: An installed bionic arm. -->
+  <BionicArm.description>一条已安装的仿生臂</BionicArm.description>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>仿生臂</BionicArm.labelNoun>
+  
+  <!-- EN: bionic finger -->
+  <BionicFinger.label>TODO</BionicFinger.label>
+  <!-- EN: An installed bionic finger. -->
+  <BionicFinger.description>TODO</BionicFinger.description>
+  <!-- EN: a bionic finger -->
+  <BionicFinger.labelNoun>TODO</BionicFinger.labelNoun>
+  
+  <!-- EN: bionic foot -->
+  <BionicFoot.label>TODO</BionicFoot.label>
+  <!-- EN: An installed bionic foot. -->
+  <BionicFoot.description>TODO</BionicFoot.description>
+  <!-- EN: a bionic foot -->
+  <BionicFoot.labelNoun>TODO</BionicFoot.labelNoun>
+  
+  <!-- EN: bionic forearm -->
+  <BionicForearm.label>TODO</BionicForearm.label>
+  <!-- EN: An installed bionic forearm. -->
+  <BionicForearm.description>TODO</BionicForearm.description>
+  <!-- EN: a bionic forearm -->
+  <BionicForearm.labelNoun>TODO</BionicForearm.labelNoun>
+  
+  <!-- EN: bionic hand -->
+  <BionicHand.label>TODO</BionicHand.label>
+  <!-- EN: An installed bionic hand. -->
+  <BionicHand.description>TODO</BionicHand.description>
+  <!-- EN: fist -->
+  <BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic hand -->
+  <BionicHand.labelNoun>TODO</BionicHand.labelNoun>
+  
+  <!-- EN: bionic internal support -->
+  <BionicInternalSupport.label>TODO</BionicInternalSupport.label>
+  <!-- EN: An installed bionic internal support. -->
+  <BionicInternalSupport.description>TODO</BionicInternalSupport.description>
+  <!-- EN: a bionic internal support -->
+  <BionicInternalSupport.labelNoun>TODO</BionicInternalSupport.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>仿生腿</BionicLeg.label>
+  <!-- EN: An installed bionic leg. -->
+  <BionicLeg.description>一条已安装的仿生腿</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>仿生腿</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic toe -->
+  <BionicToe.label>TODO</BionicToe.label>
+  <!-- EN: An installed bionic toe. -->
+  <BionicToe.description>TODO</BionicToe.description>
+  <!-- EN: a bionic toe -->
+  <BionicToe.labelNoun>TODO</BionicToe.labelNoun>
+  
+</LanguageData>

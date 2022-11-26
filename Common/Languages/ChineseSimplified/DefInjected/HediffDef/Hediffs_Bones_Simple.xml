@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prosthetic clavicle -->
+  <SimpleProstheticClavicle.label>TODO</SimpleProstheticClavicle.label>
+  <!-- EN: An installed prosthetic clavicle. -->
+  <SimpleProstheticClavicle.description>TODO</SimpleProstheticClavicle.description>
+  <!-- EN: a prosthetic clavicle -->
+  <SimpleProstheticClavicle.labelNoun>TODO</SimpleProstheticClavicle.labelNoun>
+  
+  <!-- EN: prosthetic femur -->
+  <SimpleProstheticFemur.label>TODO</SimpleProstheticFemur.label>
+  <!-- EN: An installed prosthetic femur. -->
+  <SimpleProstheticFemur.description>TODO</SimpleProstheticFemur.description>
+  <!-- EN: a prosthetic femur -->
+  <SimpleProstheticFemur.labelNoun>TODO</SimpleProstheticFemur.labelNoun>
+  
+  <!-- EN: prosthetic humerus -->
+  <SimpleProstheticHumerus.label>TODO</SimpleProstheticHumerus.label>
+  <!-- EN: An installed prosthetic humerus. -->
+  <SimpleProstheticHumerus.description>TODO</SimpleProstheticHumerus.description>
+  <!-- EN: a prosthetic humerus -->
+  <SimpleProstheticHumerus.labelNoun>TODO</SimpleProstheticHumerus.labelNoun>
+  
+  <!-- EN: prosthetic radius -->
+  <SimpleProstheticRadius.label>TODO</SimpleProstheticRadius.label>
+  <!-- EN: An installed prosthetic radius. -->
+  <SimpleProstheticRadius.description>TODO</SimpleProstheticRadius.description>
+  <!-- EN: a prosthetic radius -->
+  <SimpleProstheticRadius.labelNoun>TODO</SimpleProstheticRadius.labelNoun>
+  
+  <!-- EN: prosthetic sternum -->
+  <SimpleProstheticSternum.label>TODO</SimpleProstheticSternum.label>
+  <!-- EN: An installed prosthetic sternum. -->
+  <SimpleProstheticSternum.description>TODO</SimpleProstheticSternum.description>
+  <!-- EN: a prosthetic sternum -->
+  <SimpleProstheticSternum.labelNoun>TODO</SimpleProstheticSternum.labelNoun>
+  
+  <!-- EN: prosthetic tibia -->
+  <SimpleProstheticTibia.label>TODO</SimpleProstheticTibia.label>
+  <!-- EN: An installed prosthetic tibia. -->
+  <SimpleProstheticTibia.description>TODO</SimpleProstheticTibia.description>
+  <!-- EN: a prosthetic tibia -->
+  <SimpleProstheticTibia.labelNoun>TODO</SimpleProstheticTibia.labelNoun>
+  
+</LanguageData>

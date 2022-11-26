@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bionic modules -->
+  <BionicModules.label>TODO</BionicModules.label>
+  <!-- EN: Allows crafting of modules to improve bionic prostheses. -->
+  <BionicModules.description>TODO</BionicModules.description>
+  
+  <!-- EN: advanced bone replacements -->
+  <BoneProstheticsPlasteel.label>TODO</BoneProstheticsPlasteel.label>
+  <!-- EN: Build plasteel prosthetic bone replacements. -->
+  <BoneProstheticsPlasteel.description>TODO</BoneProstheticsPlasteel.description>
+  
+  <!-- EN: bone replacements -->
+  <BoneProstheticsSimple.label>TODO</BoneProstheticsSimple.label>
+  <!-- EN: Build steel prosthetic bone replacements. -->
+  <BoneProstheticsSimple.description>TODO</BoneProstheticsSimple.description>
+  
+</LanguageData>

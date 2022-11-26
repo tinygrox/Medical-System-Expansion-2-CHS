@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plasteel clavicle -->
+  <PlasteelClavicle.label>TODO</PlasteelClavicle.label>
+  <!-- EN: An installed plasteel clavicle. -->
+  <PlasteelClavicle.description>TODO</PlasteelClavicle.description>
+  <!-- EN: a plasteel clavicle -->
+  <PlasteelClavicle.labelNoun>TODO</PlasteelClavicle.labelNoun>
+  
+  <!-- EN: plasteel femur -->
+  <PlasteelFemur.label>TODO</PlasteelFemur.label>
+  <!-- EN: An installed plasteel femur. -->
+  <PlasteelFemur.description>TODO</PlasteelFemur.description>
+  <!-- EN: a plasteel femur -->
+  <PlasteelFemur.labelNoun>TODO</PlasteelFemur.labelNoun>
+  
+  <!-- EN: plasteel humerus -->
+  <PlasteelHumerus.label>TODO</PlasteelHumerus.label>
+  <!-- EN: An installed plasteel humerus. -->
+  <PlasteelHumerus.description>TODO</PlasteelHumerus.description>
+  <!-- EN: a plasteel humerus -->
+  <PlasteelHumerus.labelNoun>TODO</PlasteelHumerus.labelNoun>
+  
+  <!-- EN: plasteel radius -->
+  <PlasteelRadius.label>TODO</PlasteelRadius.label>
+  <!-- EN: An installed plasteel radius. -->
+  <PlasteelRadius.description>TODO</PlasteelRadius.description>
+  <!-- EN: a plasteel radius -->
+  <PlasteelRadius.labelNoun>TODO</PlasteelRadius.labelNoun>
+  
+  <!-- EN: plasteel sternum -->
+  <PlasteelSternum.label>TODO</PlasteelSternum.label>
+  <!-- EN: An installed plasteel sternum. -->
+  <PlasteelSternum.description>TODO</PlasteelSternum.description>
+  <!-- EN: a plasteel sternum -->
+  <PlasteelSternum.labelNoun>TODO</PlasteelSternum.labelNoun>
+  
+  <!-- EN: plasteel tibia -->
+  <PlasteelTibia.label>TODO</PlasteelTibia.label>
+  <!-- EN: An installed plasteel tibia. -->
+  <PlasteelTibia.description>TODO</PlasteelTibia.description>
+  <!-- EN: a plasteel tibia -->
+  <PlasteelTibia.labelNoun>TODO</PlasteelTibia.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- version labeling -->
+	<!-- EN: complete -->
+  <LimbComplete>TODO</LimbComplete>
+	<!-- EN: segment -->
+  <LimbSegment>TODO</LimbSegment>
+	<!-- EN: simple -->
+  <LimbSimple>TODO</LimbSimple>
+	<!-- EN: version -->
+  <LimbVersion>TODO</LimbVersion>
+	<!-- EN: compatible -->
+  <LimbCompatible>TODO</LimbCompatible>
+	<!-- EN: not compatible -->
+  <LimbIncompatible>TODO</LimbIncompatible>
+	<!-- EN:  (current version) -->
+  <LimbSelected>TODO</LimbSelected>
+
+	<!-- Recipe Generation -->	
+	<!-- EN: make {0} segment -->
+  <RecipeMakeSegment>TODO</RecipeMakeSegment>
+
+	<!-- EN: assemble {0} -->
+  <RecipeMakeUpgrade>TODO</RecipeMakeUpgrade>
+
+  <!-- EN: make complete {0} ({1}) -->
+  <RecipeMakeForLimb>TODO</RecipeMakeForLimb>
+  <!-- EN: make complete {0} -->
+  <RecipeMakeForLimbNoComparison>TODO</RecipeMakeForLimbNoComparison>
+	<!-- EN: Make {0} {1}. It will be installable on the following races: {2}. -->
+  <RecipeMakeForLimbDescription>TODO</RecipeMakeForLimbDescription>
+	<!-- EN: Making {0} ({1}). -->
+  <RecipeMakeForLimbJobString>TODO</RecipeMakeForLimbJobString>
+
+	<!-- Dialog StatsReports -->
+
+	<!-- EN: Includes {0}: {1} -->
+  <StatsReport_ValueOfSubParts>TODO</StatsReport_ValueOfSubParts>
+	<!-- EN: Contains {0}: {1} -->
+  <StatsReport_MassOfSubParts>TODO</StatsReport_MassOfSubParts>
+
+
+	<!-- CompIncludedChildParts -->
+	<!-- EN: Includes {0} direct subparts. -->
+  <CompIncludedChildParts_InspectStringIncludes>TODO</CompIncludedChildParts_InspectStringIncludes>
+	<!-- EN: Version: {0} -->
+  <CompIncludedChildParts_InspectStringTarget>TODO</CompIncludedChildParts_InspectStringTarget>
+	<!-- EN:  ({0} missing parts) -->
+  <CompIncludedChildParts_InspectStringMissing>TODO</CompIncludedChildParts_InspectStringMissing>
+	<!-- EN: Included subparts -->
+  <CompIncludedChildParts_StatIncludedParts_Label>TODO</CompIncludedChildParts_StatIncludedParts_Label>
+	<!-- EN: When implanted it will also install theese: -->
+  <CompIncludedChildParts_StatIncludedParts_Description>TODO</CompIncludedChildParts_StatIncludedParts_Description>
+	<!-- EN: Compatibile versions -->
+  <CompIncludedChildParts_StatCompatibility_Label>TODO</CompIncludedChildParts_StatCompatibility_Label>
+	<!-- EN: {0} of {1} -->
+  <CompIncludedChildParts_StatCompatibility_Value>TODO</CompIncludedChildParts_StatCompatibility_Value>
+	<!-- EN: Missing parts -->
+  <CompIncludedChildParts_StatMissing_Label>TODO</CompIncludedChildParts_StatMissing_Label>
+	<!-- EN: The following parts are missing: -->
+  <CompIncludedChildParts_StatMissing_Description>TODO</CompIncludedChildParts_StatMissing_Description>
+	<!-- EN: No parts are missing. -->
+  <CompIncludedChildParts_StatMissing_Desc_None>TODO</CompIncludedChildParts_StatMissing_Desc_None>
+
+	<!-- ModuleHolder -->
+	<!-- EN: Module slots -->
+  <ModuleHolder_Compatible_Label>TODO</ModuleHolder_Compatible_Label>
+	<!-- EN: The following modules can be installed in slots belonging to this bionic: -->
+  <ModuleHolder_Compatible_ReportText>TODO</ModuleHolder_Compatible_ReportText>
+
+
+	<!-- Bills -->
+	<!-- EN: Allow installation of incomplete prostheses. -->
+  <Bill_MedicalLimbAware_AllowIncomplete>TODO</Bill_MedicalLimbAware_AllowIncomplete>
+	<!-- EN: Only allow installation of compatible prostheses. -->
+  <Bill_MedicalLimbAware_OnlyComplete>TODO</Bill_MedicalLimbAware_OnlyComplete>
+
+
+</LanguageData>

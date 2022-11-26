@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: field finger -->
+  <FieldFinger.label>TODO</FieldFinger.label>
+  <!-- EN: An installed field finger. -->
+  <FieldFinger.description>TODO</FieldFinger.description>
+  <!-- EN: a field finger -->
+  <FieldFinger.labelNoun>TODO</FieldFinger.labelNoun>
+  
+  <!-- EN: mechanical finger -->
+  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <!-- EN: An installed mechanical finger. -->
+  <MechanicalFinger.description>TODO</MechanicalFinger.description>
+  <!-- EN: a mechanical finger -->
+  <MechanicalFinger.labelNoun>TODO</MechanicalFinger.labelNoun>
+  
+  <!-- EN: mechanical internal support -->
+  <MechanicalInternalSupport.label>TODO</MechanicalInternalSupport.label>
+  <!-- EN: An internal mechanical internal support. -->
+  <MechanicalInternalSupport.description>TODO</MechanicalInternalSupport.description>
+  <!-- EN: a mechanical internal support -->
+  <MechanicalInternalSupport.labelNoun>TODO</MechanicalInternalSupport.labelNoun>
+  
+  <!-- EN: mechanical manipulator -->
+  <MechanicalManipulator.label>TODO</MechanicalManipulator.label>
+  <!-- EN: An installed mechanical manipulator. -->
+  <MechanicalManipulator.description>TODO</MechanicalManipulator.description>
+  <!-- EN: a mechanical manipulator -->
+  <MechanicalManipulator.labelNoun>TODO</MechanicalManipulator.labelNoun>
+  
+</LanguageData>

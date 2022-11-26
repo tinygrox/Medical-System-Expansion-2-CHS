@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>超凡仿生臂</ArchotechArm.label>
+  <!-- EN: An installed archotech arm. -->
+  <ArchotechArm.description>一条已安装的超凡仿生臂。</ArchotechArm.description>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>超凡仿生臂</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech finger -->
+  <ArchotechFinger.label>TODO</ArchotechFinger.label>
+  <!-- EN: An installed archotech finger. -->
+  <ArchotechFinger.description>TODO</ArchotechFinger.description>
+  <!-- EN: an archotech finger -->
+  <ArchotechFinger.labelNoun>TODO</ArchotechFinger.labelNoun>
+  
+  <!-- EN: archotech foot -->
+  <ArchotechFoot.label>TODO</ArchotechFoot.label>
+  <!-- EN: An installed archotech foot. -->
+  <ArchotechFoot.description>TODO</ArchotechFoot.description>
+  <!-- EN: an archotech foot -->
+  <ArchotechFoot.labelNoun>TODO</ArchotechFoot.labelNoun>
+  
+  <!-- EN: archotech forearm -->
+  <ArchotechForearm.label>TODO</ArchotechForearm.label>
+  <!-- EN: An installed archotech forearm. -->
+  <ArchotechForearm.description>TODO</ArchotechForearm.description>
+  <!-- EN: an archotech forearm -->
+  <ArchotechForearm.labelNoun>TODO</ArchotechForearm.labelNoun>
+  
+  <!-- EN: archotech hand -->
+  <ArchotechHand.label>TODO</ArchotechHand.label>
+  <!-- EN: An installed archotech hand. -->
+  <ArchotechHand.description>TODO</ArchotechHand.description>
+  <!-- EN: fist -->
+  <ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech hand -->
+  <ArchotechHand.labelNoun>TODO</ArchotechHand.labelNoun>
+  
+  <!-- EN: archotech internal support -->
+  <ArchotechInternalSupport.label>TODO</ArchotechInternalSupport.label>
+  <!-- EN: An installed archotech internal support. -->
+  <ArchotechInternalSupport.description>TODO</ArchotechInternalSupport.description>
+  <!-- EN: an archotech internal support -->
+  <ArchotechInternalSupport.labelNoun>TODO</ArchotechInternalSupport.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>超凡仿生腿</ArchotechLeg.label>
+  <!-- EN: An installed archotech leg. -->
+  <ArchotechLeg.description>一条已安装的超凡仿生腿</ArchotechLeg.description>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>超凡仿生腿</ArchotechLeg.labelNoun>
+  
+  <!-- EN: archotech toe -->
+  <ArchotechToe.label>TODO</ArchotechToe.label>
+  <!-- EN: An installed archotech toe. -->
+  <ArchotechToe.description>TODO</ArchotechToe.description>
+  <!-- EN: an archotech toe -->
+  <ArchotechToe.labelNoun>TODO</ArchotechToe.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install prosthetic clavicle -->
+  <InstallSimpleProstheticClavicle.label>TODO</InstallSimpleProstheticClavicle.label>
+  <!-- EN: Install a prosthetic clavicle. -->
+  <InstallSimpleProstheticClavicle.description>TODO</InstallSimpleProstheticClavicle.description>
+  <!-- EN: Installing prosthetic clavicle. -->
+  <InstallSimpleProstheticClavicle.jobString>TODO</InstallSimpleProstheticClavicle.jobString>
+  
+  <!-- EN: install prosthetic femur -->
+  <InstallSimpleProstheticFemur.label>TODO</InstallSimpleProstheticFemur.label>
+  <!-- EN: Install a prosthetic femur. -->
+  <InstallSimpleProstheticFemur.description>TODO</InstallSimpleProstheticFemur.description>
+  <!-- EN: Installing prosthetic femur. -->
+  <InstallSimpleProstheticFemur.jobString>TODO</InstallSimpleProstheticFemur.jobString>
+  
+  <!-- EN: install prosthetic humerus -->
+  <InstallSimpleProstheticHumerus.label>TODO</InstallSimpleProstheticHumerus.label>
+  <!-- EN: Install a prosthetic humerus. -->
+  <InstallSimpleProstheticHumerus.description>TODO</InstallSimpleProstheticHumerus.description>
+  <!-- EN: Installing prosthetic humerus. -->
+  <InstallSimpleProstheticHumerus.jobString>TODO</InstallSimpleProstheticHumerus.jobString>
+  
+  <!-- EN: install prosthetic radius -->
+  <InstallSimpleProstheticRadius.label>TODO</InstallSimpleProstheticRadius.label>
+  <!-- EN: Install a prosthetic radius. -->
+  <InstallSimpleProstheticRadius.description>TODO</InstallSimpleProstheticRadius.description>
+  <!-- EN: Installing prosthetic radius. -->
+  <InstallSimpleProstheticRadius.jobString>TODO</InstallSimpleProstheticRadius.jobString>
+  
+  <!-- EN: install prosthetic sternum -->
+  <InstallSimpleProstheticSternum.label>TODO</InstallSimpleProstheticSternum.label>
+  <!-- EN: Install a prosthetic sternum. -->
+  <InstallSimpleProstheticSternum.description>TODO</InstallSimpleProstheticSternum.description>
+  <!-- EN: Installing prosthetic sternum. -->
+  <InstallSimpleProstheticSternum.jobString>TODO</InstallSimpleProstheticSternum.jobString>
+  
+  <!-- EN: install prosthetic tibia -->
+  <InstallSimpleProstheticTibia.label>TODO</InstallSimpleProstheticTibia.label>
+  <!-- EN: Install a prosthetic tibia. -->
+  <InstallSimpleProstheticTibia.description>TODO</InstallSimpleProstheticTibia.description>
+  <!-- EN: Installing prosthetic tibia. -->
+  <InstallSimpleProstheticTibia.jobString>TODO</InstallSimpleProstheticTibia.jobString>
+  
+</LanguageData>

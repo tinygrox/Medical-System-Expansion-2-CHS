@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- HediffHideModeSetting -->
+	<!-- EN: Hide standard sub-parts -->
+  <HediffHideModeSetting_Title>TODO</HediffHideModeSetting_Title>
+	<!-- EN: Choose when standard subparts should be hidden in the Health Overview tab.
+ - Always: standard sub-parts will be always hidden
+ - Never: standard sub-parts will be always visible
+ - Clean: standard sub-parts will be hidden when there are no other hediffs on their part
+ - Clean or modules: standard sub-parts will be hidden when there are no other hediffs on their part or they only have modules -->
+  <HediffHideModeSetting_Description>TODO</HediffHideModeSetting_Description>
+	<!-- EN: Always -->
+  <HediffHideModeSetting_Always>TODO</HediffHideModeSetting_Always>
+	<!-- EN: Never -->
+  <HediffHideModeSetting_Never>TODO</HediffHideModeSetting_Never>
+	<!-- EN: Clean -->
+  <HediffHideModeSetting_Clean>TODO</HediffHideModeSetting_Clean>
+	<!-- EN: Clean or modules -->
+  <HediffHideModeSetting_CleanOrModules>TODO</HediffHideModeSetting_CleanOrModules>
+
+	<!-- RemoveAllFromSegmentSetting -->
+	<!-- EN: Remove all sub-parts from segment version -->
+  <RemoveAllFromSegmentSetting_Title>TODO</RemoveAllFromSegmentSetting_Title>
+	<!-- EN: Enabling this will remove and spawn all sub-parts after switching a prosthetic to Segment version. -->
+  <RemoveAllFromSegmentSetting_Description>TODO</RemoveAllFromSegmentSetting_Description>
+
+	<!-- HideModuleSlotsSetting -->
+	<!-- EN: Hide module slots -->
+  <HideModuleSlotsSetting_Title>TODO</HideModuleSlotsSetting_Title>
+	<!-- EN: When toggled on, module slots will not be visible in the health tab. -->
+  <HideModuleSlotsSetting_Description>TODO</HideModuleSlotsSetting_Description>
+
+</LanguageData>

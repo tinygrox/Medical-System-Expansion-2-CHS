@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+
+	<identifier>tinygrox.CHS.MSE2</identifier>
+	<version>1.0.0</version>
+	<loadBefore>
+	</loadBefore>
+	<loadAfter>
+		<li>EPOE-Forked</li>
+	</loadAfter>
+	<showCrossPromotions>false</showCrossPromotions>
+	<manifestUri></manifestUri>
+	<downloadUri></downloadUri>
+
+</Manifest>

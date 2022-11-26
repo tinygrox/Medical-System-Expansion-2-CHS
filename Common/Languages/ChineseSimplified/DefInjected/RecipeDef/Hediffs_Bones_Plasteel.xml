@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install plasteel clavicle -->
+  <InstallPlasteelClavicle.label>TODO</InstallPlasteelClavicle.label>
+  <!-- EN: Install a plasteel clavicle. -->
+  <InstallPlasteelClavicle.description>TODO</InstallPlasteelClavicle.description>
+  <!-- EN: Installing plasteel clavicle. -->
+  <InstallPlasteelClavicle.jobString>TODO</InstallPlasteelClavicle.jobString>
+  
+  <!-- EN: install plasteel femur -->
+  <InstallPlasteelFemur.label>TODO</InstallPlasteelFemur.label>
+  <!-- EN: Install a plasteel femur. -->
+  <InstallPlasteelFemur.description>TODO</InstallPlasteelFemur.description>
+  <!-- EN: Installing plasteel femur. -->
+  <InstallPlasteelFemur.jobString>TODO</InstallPlasteelFemur.jobString>
+  
+  <!-- EN: install plasteel humerus -->
+  <InstallPlasteelHumerus.label>TODO</InstallPlasteelHumerus.label>
+  <!-- EN: Install a plasteel humerus. -->
+  <InstallPlasteelHumerus.description>TODO</InstallPlasteelHumerus.description>
+  <!-- EN: Installing plasteel humerus. -->
+  <InstallPlasteelHumerus.jobString>TODO</InstallPlasteelHumerus.jobString>
+  
+  <!-- EN: install plasteel radius -->
+  <InstallPlasteelRadius.label>TODO</InstallPlasteelRadius.label>
+  <!-- EN: Install a plasteel radius. -->
+  <InstallPlasteelRadius.description>TODO</InstallPlasteelRadius.description>
+  <!-- EN: Installing plasteel radius. -->
+  <InstallPlasteelRadius.jobString>TODO</InstallPlasteelRadius.jobString>
+  
+  <!-- EN: install plasteel sternum -->
+  <InstallPlasteelSternum.label>TODO</InstallPlasteelSternum.label>
+  <!-- EN: Install a plasteel sternum. -->
+  <InstallPlasteelSternum.description>TODO</InstallPlasteelSternum.description>
+  <!-- EN: Installing plasteel sternum. -->
+  <InstallPlasteelSternum.jobString>TODO</InstallPlasteelSternum.jobString>
+  
+  <!-- EN: install plasteel tibia -->
+  <InstallPlasteelTibia.label>TODO</InstallPlasteelTibia.label>
+  <!-- EN: Install a plasteel tibia. -->
+  <InstallPlasteelTibia.description>TODO</InstallPlasteelTibia.description>
+  <!-- EN: Installing plasteel tibia. -->
+  <InstallPlasteelTibia.jobString>TODO</InstallPlasteelTibia.jobString>
+  
+</LanguageData>

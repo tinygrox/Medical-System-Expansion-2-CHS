@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: makeshift repair -->
+  <MakeshiftRepair.label>TODO</MakeshiftRepair.label>
+  <!-- EN: Repair a prosthesis using raw materials. -->
+  <MakeshiftRepair.description>TODO</MakeshiftRepair.description>
+  <!-- EN: Repairing prosthesis. -->
+  <MakeshiftRepair.jobString>TODO</MakeshiftRepair.jobString>
+  
+</LanguageData>

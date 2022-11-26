@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>超凡仿生臂</ArchotechArm.label>
+  <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>一种超凡世界制作的手臂，强大到可以轻松摧毁硬木，但又精细到能在一粒米的空间写下十四行诗，它看上去像是自然的手臂，但却比玻璃钢还难摧毁。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。</ArchotechArm.description>
+  
+  <!-- EN: archotech finger -->
+  <ArchotechFinger.label>TODO</ArchotechFinger.label>
+  <!-- EN: An artifical finger built by an archotech. It looks and feels like natural finger, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
+  <ArchotechFinger.description>TODO</ArchotechFinger.description>
+  
+  <!-- EN: archotech foot -->
+  <ArchotechFoot.label>TODO</ArchotechFoot.label>
+  <!-- EN: An artifical foot built by an archotech. It looks and feels like natural foot, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
+  <ArchotechFoot.description>TODO</ArchotechFoot.description>
+  
+  <!-- EN: archotech forearm -->
+  <ArchotechForearm.label>TODO</ArchotechForearm.label>
+  <!-- EN: An artifical forearm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechForearm.description>TODO</ArchotechForearm.description>
+  
+  <!-- EN: archotech hand -->
+  <ArchotechHand.label>TODO</ArchotechHand.label>
+  <!-- EN: An artifical hand built by an archotech. It looks and feels like natural hand, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
+  <ArchotechHand.description>TODO</ArchotechHand.description>
+  
+  <!-- EN: archotech internal support -->
+  <ArchotechInternalSupport.label>TODO</ArchotechInternalSupport.label>
+  <!-- EN: An artificial internal support built by an archotech. Useful replacement to have on hand for when an internal component of an archotech prosthesis breaks. -->
+  <ArchotechInternalSupport.description>TODO</ArchotechInternalSupport.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>超凡仿生腿</ArchotechLeg.label>
+  <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>一支来自超凡世界的人造腿，相比现代的仿生腿就如同艺术品一般，它看上去就像一条自然的腿，但却比玻璃钢更坚固，跑的比汽车还快，即使受到伤害也能飞快地自我修复，它的内部结构对于所有人来说都是个迷。</ArchotechLeg.description>
+  
+  <!-- EN: archotech toe -->
+  <ArchotechToe.label>TODO</ArchotechToe.label>
+  <!-- EN: An artifical toe built by an archotech. It looks and feels like a natural toe, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
+  <ArchotechToe.description>TODO</ArchotechToe.description>
+  
+</LanguageData>

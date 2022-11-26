@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install crafting tools module -->
+  <InstallCraftingToolsModule.label>TODO</InstallCraftingToolsModule.label>
+  <!-- EN: Install a crafting tools module. -->
+  <InstallCraftingToolsModule.description>TODO</InstallCraftingToolsModule.description>
+  <!-- EN: Installing crafting tools module. -->
+  <InstallCraftingToolsModule.jobString>TODO</InstallCraftingToolsModule.jobString>
+  
+  <!-- EN: install melee platform module -->
+  <InstallMeleePlatformModule.label>TODO</InstallMeleePlatformModule.label>
+  <!-- EN: Install a melee platform module. -->
+  <InstallMeleePlatformModule.description>TODO</InstallMeleePlatformModule.description>
+  <!-- EN: Installing melee platform module. -->
+  <InstallMeleePlatformModule.jobString>TODO</InstallMeleePlatformModule.jobString>
+  
+  <!-- EN: install advanced processing module -->
+  <InstallModuleEfficiency.label>TODO</InstallModuleEfficiency.label>
+  <!-- EN: Install an advanced processing module. -->
+  <InstallModuleEfficiency.description>TODO</InstallModuleEfficiency.description>
+  <!-- EN: Installing advanced processing module. -->
+  <InstallModuleEfficiency.jobString>TODO</InstallModuleEfficiency.jobString>
+  
+  <!-- EN: install power claw module -->
+  <InstallPowerClaw.label>安装动力爪</InstallPowerClaw.label>
+  <!-- EN: Install a power claw. -->
+  <InstallPowerClaw.description>安装动力爪。</InstallPowerClaw.description>
+  <!-- EN: Installing power claw. -->
+  <InstallPowerClaw.jobString>正在安装动力爪。</InstallPowerClaw.jobString>
+  
+  <!-- EN: install ranged platform module -->
+  <InstallRangedPlatformModule.label>TODO</InstallRangedPlatformModule.label>
+  <!-- EN: Install a ranged platform module. -->
+  <InstallRangedPlatformModule.description>TODO</InstallRangedPlatformModule.description>
+  <!-- EN: Installing ranged platform module. -->
+  <InstallRangedPlatformModule.jobString>TODO</InstallRangedPlatformModule.jobString>
+  
+</LanguageData>

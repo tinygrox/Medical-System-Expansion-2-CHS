@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install prosthetic arm -->
+  <InstallSimpleProstheticArm.label>安装假臂</InstallSimpleProstheticArm.label>
+  <!-- EN: Install a prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>安装假臂。</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>正在安装假臂。</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install prosthetic finger -->
+  <InstallSimpleProstheticFinger.label>TODO</InstallSimpleProstheticFinger.label>
+  <!-- EN: Install a prosthetic finger. -->
+  <InstallSimpleProstheticFinger.description>TODO</InstallSimpleProstheticFinger.description>
+  <!-- EN: Installing prosthetic finger. -->
+  <InstallSimpleProstheticFinger.jobString>TODO</InstallSimpleProstheticFinger.jobString>
+  
+  <!-- EN: install prosthetic foot -->
+  <InstallSimpleProstheticFoot.label>TODO</InstallSimpleProstheticFoot.label>
+  <!-- EN: Install a prosthetic foot. -->
+  <InstallSimpleProstheticFoot.description>TODO</InstallSimpleProstheticFoot.description>
+  <!-- EN: Installing prosthetic foot. -->
+  <InstallSimpleProstheticFoot.jobString>TODO</InstallSimpleProstheticFoot.jobString>
+  
+  <!-- EN: install prosthetic forearm -->
+  <InstallSimpleProstheticForearm.label>TODO</InstallSimpleProstheticForearm.label>
+  <!-- EN: Installs a prosthetic forearm. -->
+  <InstallSimpleProstheticForearm.description>TODO</InstallSimpleProstheticForearm.description>
+  <!-- EN: Installing prosthetic forearm. -->
+  <InstallSimpleProstheticForearm.jobString>TODO</InstallSimpleProstheticForearm.jobString>
+  
+  <!-- EN: install prosthetic hand -->
+  <InstallSimpleProstheticHand.label>TODO</InstallSimpleProstheticHand.label>
+  <!-- EN: Install a prosthetic hand. -->
+  <InstallSimpleProstheticHand.description>TODO</InstallSimpleProstheticHand.description>
+  <!-- EN: Installing prosthetic hand. -->
+  <InstallSimpleProstheticHand.jobString>TODO</InstallSimpleProstheticHand.jobString>
+  
+  <!-- EN: install prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>安装假腿</InstallSimpleProstheticLeg.label>
+  <!-- EN: Install a prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>安装假腿。</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>正在安装假腿。</InstallSimpleProstheticLeg.jobString>
+  
+  <!-- EN: install prosthetic toe -->
+  <InstallSimpleProstheticToe.label>TODO</InstallSimpleProstheticToe.label>
+  <!-- EN: Install a prosthetic toe. -->
+  <InstallSimpleProstheticToe.description>TODO</InstallSimpleProstheticToe.description>
+  <!-- EN: Installing prosthetic toe. -->
+  <InstallSimpleProstheticToe.jobString>TODO</InstallSimpleProstheticToe.jobString>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: remove modules -->
+  <MSE_RemoveModules.label>TODO</MSE_RemoveModules.label>
+  <!-- EN: Remove all modules from a bodypart. -->
+  <MSE_RemoveModules.description>TODO</MSE_RemoveModules.description>
+  <!-- EN: Removing modules. -->
+  <MSE_RemoveModules.jobString>TODO</MSE_RemoveModules.jobString>
+  
+</LanguageData>

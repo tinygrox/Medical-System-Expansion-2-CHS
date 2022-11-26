@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>Medical System Expansion 2 简中翻译</name>
+	<author>JonM0</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>tinygrox.CHS.MSE2</packageId>
+	<url>https://github.com/</url>
+	<description>
+		Medical System Expansion 2 的简中翻译
+
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>MSE2.Core</packageId>
+			<displayName>Medical System Expansion 2</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2056706586</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>MSE2.Core</li>
+	</loadAfter>
+
+</ModMetaData>

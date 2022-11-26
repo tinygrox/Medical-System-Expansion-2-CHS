@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install field finger -->
+  <InstallFieldFinger.label>TODO</InstallFieldFinger.label>
+  <!-- EN: Install a field finger. -->
+  <InstallFieldFinger.description>TODO</InstallFieldFinger.description>
+  <!-- EN: Installing field finger. -->
+  <InstallFieldFinger.jobString>TODO</InstallFieldFinger.jobString>
+  
+  <!-- EN: install mechanical finger -->
+  <InstallMechanicalFinger.label>TODO</InstallMechanicalFinger.label>
+  <!-- EN: Install a mechanical finger. -->
+  <InstallMechanicalFinger.description>TODO</InstallMechanicalFinger.description>
+  <!-- EN: Installing mechanical finger. -->
+  <InstallMechanicalFinger.jobString>TODO</InstallMechanicalFinger.jobString>
+  
+  <!-- EN: install mechanical internal support -->
+  <InstallMechanicalInternalSupport.label>TODO</InstallMechanicalInternalSupport.label>
+  <!-- EN: Install a mechanical internal support. -->
+  <InstallMechanicalInternalSupport.description>TODO</InstallMechanicalInternalSupport.description>
+  <!-- EN: Installing replacement mechanical internal support. -->
+  <InstallMechanicalInternalSupport.jobString>TODO</InstallMechanicalInternalSupport.jobString>
+  
+  <!-- EN: install mechanical manipulator -->
+  <InstallMechanicalManipulator.label>TODO</InstallMechanicalManipulator.label>
+  <!-- EN: Install a mechanical manipulator. -->
+  <InstallMechanicalManipulator.description>TODO</InstallMechanicalManipulator.description>
+  <!-- EN: Installing mechanical manipulator. -->
+  <InstallMechanicalManipulator.jobString>TODO</InstallMechanicalManipulator.jobString>
+  
+</LanguageData>

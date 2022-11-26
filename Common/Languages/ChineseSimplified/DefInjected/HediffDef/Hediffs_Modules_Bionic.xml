@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crafting tools module -->
+  <CraftingToolsModule.label>TODO</CraftingToolsModule.label>
+  <!-- EN: An installed crafting tools module. -->
+  <CraftingToolsModule.description>TODO</CraftingToolsModule.description>
+  <!-- EN: a crafting tools module -->
+  <CraftingToolsModule.labelNoun>TODO</CraftingToolsModule.labelNoun>
+  
+  <!-- EN: melee platform module -->
+  <MeleePlatformModule.label>TODO</MeleePlatformModule.label>
+  <!-- EN: An installed melee platform module. -->
+  <MeleePlatformModule.description>TODO</MeleePlatformModule.description>
+  <!-- EN: a melee platform module -->
+  <MeleePlatformModule.labelNoun>TODO</MeleePlatformModule.labelNoun>
+  
+  <!-- EN: advanced processing module -->
+  <ModuleEfficiency.label>TODO</ModuleEfficiency.label>
+  <!-- EN: An installed advanced processing module. -->
+  <ModuleEfficiency.description>TODO</ModuleEfficiency.description>
+  <!-- EN: an advanced processing module -->
+  <ModuleEfficiency.labelNoun>TODO</ModuleEfficiency.labelNoun>
+  
+  <!-- EN: advanced processing module -->
+  <ModuleEfficiency_Effector.label>TODO</ModuleEfficiency_Effector.label>
+  <!-- EN: An installed advanced processing module. -->
+  <ModuleEfficiency_Effector.description>TODO</ModuleEfficiency_Effector.description>
+  <!-- EN: an advanced processing module -->
+  <ModuleEfficiency_Effector.labelNoun>TODO</ModuleEfficiency_Effector.labelNoun>
+  
+  <!-- EN: power claw module -->
+  <PowerClaw.label>动力爪</PowerClaw.label>
+  <!-- EN: An installed power claw module. -->
+  <PowerClaw.description>一只已安装的动力爪</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>动力爪</PowerClaw.labelNoun>
+  
+  <!-- EN: ranged platform module -->
+  <RangedPlatformModule.label>TODO</RangedPlatformModule.label>
+  <!-- EN: An installed ranged platform module. -->
+  <RangedPlatformModule.description>TODO</RangedPlatformModule.description>
+  <!-- EN: a ranged platform module -->
+  <RangedPlatformModule.labelNoun>TODO</RangedPlatformModule.labelNoun>
+  
+</LanguageData>

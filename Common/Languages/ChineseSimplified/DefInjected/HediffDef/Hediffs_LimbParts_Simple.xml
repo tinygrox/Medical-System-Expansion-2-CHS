@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>假臂</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. -->
+  <SimpleProstheticArm.description>一条已安装的简易假臂</SimpleProstheticArm.description>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>假臂</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic finger -->
+  <SimpleProstheticFinger.label>TODO</SimpleProstheticFinger.label>
+  <!-- EN: An installed prosthetic finger. -->
+  <SimpleProstheticFinger.description>TODO</SimpleProstheticFinger.description>
+  <!-- EN: a prosthetic finger -->
+  <SimpleProstheticFinger.labelNoun>TODO</SimpleProstheticFinger.labelNoun>
+  
+  <!-- EN: prosthetic foot -->
+  <SimpleProstheticFoot.label>TODO</SimpleProstheticFoot.label>
+  <!-- EN: An installed prosthetic foot. -->
+  <SimpleProstheticFoot.description>TODO</SimpleProstheticFoot.description>
+  <!-- EN: a prosthetic foot -->
+  <SimpleProstheticFoot.labelNoun>TODO</SimpleProstheticFoot.labelNoun>
+  
+  <!-- EN: prosthetic forearm -->
+  <SimpleProstheticForearm.label>TODO</SimpleProstheticForearm.label>
+  <!-- EN: An installed prosthetic forearm. -->
+  <SimpleProstheticForearm.description>TODO</SimpleProstheticForearm.description>
+  <!-- EN: a prosthetic forearm -->
+  <SimpleProstheticForearm.labelNoun>TODO</SimpleProstheticForearm.labelNoun>
+  
+  <!-- EN: prosthetic hand -->
+  <SimpleProstheticHand.label>TODO</SimpleProstheticHand.label>
+  <!-- EN: An installed prosthetic hand. -->
+  <SimpleProstheticHand.description>TODO</SimpleProstheticHand.description>
+  <!-- EN: fist -->
+  <SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic hand -->
+  <SimpleProstheticHand.labelNoun>TODO</SimpleProstheticHand.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>假腿</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. -->
+  <SimpleProstheticLeg.description>一条已安装的简易假腿</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>假腿</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: prosthetic toe -->
+  <SimpleProstheticToe.label>TODO</SimpleProstheticToe.label>
+  <!-- EN: An installed prosthetic toe. -->
+  <SimpleProstheticToe.description>TODO</SimpleProstheticToe.description>
+  <!-- EN: a prosthetic toe -->
+  <SimpleProstheticToe.labelNoun>TODO</SimpleProstheticToe.labelNoun>
+  
+</LanguageData>

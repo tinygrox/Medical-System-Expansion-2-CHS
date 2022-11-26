@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Gameplay Commands -->
+
+	<!-- Command_AddExistingSubpart -->
+	<!-- EN: Add sub-part -->
+  <CommandAddExistingSubpart_Label>TODO</CommandAddExistingSubpart_Label>
+	<!-- EN: Choose a part to add to this one's sub-parts. -->
+  <CommandAddExistingSubpart_Description>TODO</CommandAddExistingSubpart_Description>
+	<!-- EN: {0} (to {1}) -->
+  <CommandAddExistingSubpart_AddTo>TODO</CommandAddExistingSubpart_AddTo>
+	<!-- EN: Could not find a compatible part to add. -->
+  <CommandAddExistingSubpart_CouldNotFindPart>TODO</CommandAddExistingSubpart_CouldNotFindPart>
+
+	<!-- Command_SetTargetLimb -->
+	<!-- EN: Select version -->
+  <Command_SetTargetLimb_Label>TODO</Command_SetTargetLimb_Label>
+	<!-- EN: Choose what limb this will replace -->
+  <Command_SetTargetLimb_Description>TODO</Command_SetTargetLimb_Description>
+	<!-- EN: Segment -->
+  <Command_SetTargetLimb_NoTarget>TODO</Command_SetTargetLimb_NoTarget>
+
+	<!-- Command_SplitOffSubpart -->
+	<!-- EN: Remove sub-part -->
+  <CommandSplitOffSubpart_Label>TODO</CommandSplitOffSubpart_Label>
+	<!-- EN: Choose a part to remove from this one's subparts. -->
+  <CommandSplitOffSubpart_Description>TODO</CommandSplitOffSubpart_Description>
+	<!-- EN: {0} (from {1}) -->
+  <CommandSplitOffSubpart_RemoveFrom>TODO</CommandSplitOffSubpart_RemoveFrom>
+
+</LanguageData>
