@@ -9,54 +9,54 @@
   <ArchotechArm.labelNoun>超凡仿生臂</ArchotechArm.labelNoun>
   
   <!-- EN: archotech finger -->
-  <ArchotechFinger.label>TODO</ArchotechFinger.label>
+  <ArchotechFinger.label>超凡仿生指</ArchotechFinger.label>
   <!-- EN: An installed archotech finger. -->
-  <ArchotechFinger.description>TODO</ArchotechFinger.description>
+  <ArchotechFinger.description>一根已安装的超凡仿生指。</ArchotechFinger.description>
   <!-- EN: an archotech finger -->
-  <ArchotechFinger.labelNoun>TODO</ArchotechFinger.labelNoun>
+  <ArchotechFinger.labelNoun>超凡仿生指</ArchotechFinger.labelNoun>
   
   <!-- EN: archotech foot -->
-  <ArchotechFoot.label>TODO</ArchotechFoot.label>
+  <ArchotechFoot.label>超凡仿生足</ArchotechFoot.label>
   <!-- EN: An installed archotech foot. -->
-  <ArchotechFoot.description>TODO</ArchotechFoot.description>
+  <ArchotechFoot.description>一只已安装的超凡仿生足。</ArchotechFoot.description>
   <!-- EN: an archotech foot -->
-  <ArchotechFoot.labelNoun>TODO</ArchotechFoot.labelNoun>
+  <ArchotechFoot.labelNoun>超凡仿生足</ArchotechFoot.labelNoun>
   
   <!-- EN: archotech forearm -->
-  <ArchotechForearm.label>TODO</ArchotechForearm.label>
+  <ArchotechForearm.label>超凡仿生前臂</ArchotechForearm.label>
   <!-- EN: An installed archotech forearm. -->
-  <ArchotechForearm.description>TODO</ArchotechForearm.description>
+  <ArchotechForearm.description>一条已安装的超凡仿生前臂。</ArchotechForearm.description>
   <!-- EN: an archotech forearm -->
-  <ArchotechForearm.labelNoun>TODO</ArchotechForearm.labelNoun>
+  <ArchotechForearm.labelNoun>超凡仿生前臂</ArchotechForearm.labelNoun>
   
   <!-- EN: archotech hand -->
-  <ArchotechHand.label>TODO</ArchotechHand.label>
+  <ArchotechHand.label>超凡仿生手</ArchotechHand.label>
   <!-- EN: An installed archotech hand. -->
-  <ArchotechHand.description>TODO</ArchotechHand.description>
+  <ArchotechHand.description>一只已安装的超凡仿生手。</ArchotechHand.description>
   <!-- EN: fist -->
-  <ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>拳头</ArchotechHand.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech hand -->
-  <ArchotechHand.labelNoun>TODO</ArchotechHand.labelNoun>
+  <ArchotechHand.labelNoun>超凡仿生手</ArchotechHand.labelNoun>
   
   <!-- EN: archotech internal support -->
-  <ArchotechInternalSupport.label>TODO</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.label>超凡支撑骨</ArchotechInternalSupport.label>
   <!-- EN: An installed archotech internal support. -->
-  <ArchotechInternalSupport.description>TODO</ArchotechInternalSupport.description>
+  <ArchotechInternalSupport.description>超凡支撑骨</ArchotechInternalSupport.description>
   <!-- EN: an archotech internal support -->
-  <ArchotechInternalSupport.labelNoun>TODO</ArchotechInternalSupport.labelNoun>
+  <ArchotechInternalSupport.labelNoun>超凡支撑骨</ArchotechInternalSupport.labelNoun>
   
   <!-- EN: archotech leg -->
   <ArchotechLeg.label>超凡仿生腿</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>一条已安装的超凡仿生腿</ArchotechLeg.description>
+  <ArchotechLeg.description>一条已安装的超凡仿生腿。</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
   <ArchotechLeg.labelNoun>超凡仿生腿</ArchotechLeg.labelNoun>
   
   <!-- EN: archotech toe -->
-  <ArchotechToe.label>TODO</ArchotechToe.label>
+  <ArchotechToe.label>超凡仿生趾</ArchotechToe.label>
   <!-- EN: An installed archotech toe. -->
-  <ArchotechToe.description>TODO</ArchotechToe.description>
+  <ArchotechToe.description>一只超凡仿生趾。</ArchotechToe.description>
   <!-- EN: an archotech toe -->
-  <ArchotechToe.labelNoun>TODO</ArchotechToe.labelNoun>
+  <ArchotechToe.labelNoun>超凡仿生趾</ArchotechToe.labelNoun>
   
 </LanguageData>

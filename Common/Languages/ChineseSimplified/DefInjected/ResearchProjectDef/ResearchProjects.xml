@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: Bionic modules -->
-  <BionicModules.label>TODO</BionicModules.label>
+  <BionicModules.label>仿生体模块</BionicModules.label>
   <!-- EN: Allows crafting of modules to improve bionic prostheses. -->
-  <BionicModules.description>TODO</BionicModules.description>
+  <BionicModules.description>解锁制作用于改进升级仿生体的仿生模块。</BionicModules.description>
   
   <!-- EN: advanced bone replacements -->
-  <BoneProstheticsPlasteel.label>TODO</BoneProstheticsPlasteel.label>
+  <BoneProstheticsPlasteel.label>高级骨替代物</BoneProstheticsPlasteel.label>
   <!-- EN: Build plasteel prosthetic bone replacements. -->
-  <BoneProstheticsPlasteel.description>TODO</BoneProstheticsPlasteel.description>
+  <BoneProstheticsPlasteel.description>制作玻璃钢材质的人造骨骼替代物。</BoneProstheticsPlasteel.description>
   
   <!-- EN: bone replacements -->
-  <BoneProstheticsSimple.label>TODO</BoneProstheticsSimple.label>
+  <BoneProstheticsSimple.label>骨替代物</BoneProstheticsSimple.label>
   <!-- EN: Build steel prosthetic bone replacements. -->
-  <BoneProstheticsSimple.description>TODO</BoneProstheticsSimple.description>
+  <BoneProstheticsSimple.description>制作钢铁材质的人造骨骼替代物。</BoneProstheticsSimple.description>
   
 </LanguageData>

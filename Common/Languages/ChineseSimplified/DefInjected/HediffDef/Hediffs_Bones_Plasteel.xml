@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: plasteel clavicle -->
-  <PlasteelClavicle.label>TODO</PlasteelClavicle.label>
+  <PlasteelClavicle.label>玻璃钢锁骨</PlasteelClavicle.label>
   <!-- EN: An installed plasteel clavicle. -->
-  <PlasteelClavicle.description>TODO</PlasteelClavicle.description>
+  <PlasteelClavicle.description>一根已安装的玻璃钢锁骨。</PlasteelClavicle.description>
   <!-- EN: a plasteel clavicle -->
-  <PlasteelClavicle.labelNoun>TODO</PlasteelClavicle.labelNoun>
+  <PlasteelClavicle.labelNoun>玻璃钢锁骨</PlasteelClavicle.labelNoun>
   
   <!-- EN: plasteel femur -->
-  <PlasteelFemur.label>TODO</PlasteelFemur.label>
+  <PlasteelFemur.label>玻璃钢股骨</PlasteelFemur.label>
   <!-- EN: An installed plasteel femur. -->
-  <PlasteelFemur.description>TODO</PlasteelFemur.description>
+  <PlasteelFemur.description>一根已安装的玻璃钢股骨。</PlasteelFemur.description>
   <!-- EN: a plasteel femur -->
-  <PlasteelFemur.labelNoun>TODO</PlasteelFemur.labelNoun>
+  <PlasteelFemur.labelNoun>玻璃钢股骨</PlasteelFemur.labelNoun>
   
   <!-- EN: plasteel humerus -->
-  <PlasteelHumerus.label>TODO</PlasteelHumerus.label>
+  <PlasteelHumerus.label>玻璃钢肱骨</PlasteelHumerus.label>
   <!-- EN: An installed plasteel humerus. -->
-  <PlasteelHumerus.description>TODO</PlasteelHumerus.description>
+  <PlasteelHumerus.description>一根已安装的玻璃钢肱骨。</PlasteelHumerus.description>
   <!-- EN: a plasteel humerus -->
-  <PlasteelHumerus.labelNoun>TODO</PlasteelHumerus.labelNoun>
+  <PlasteelHumerus.labelNoun>玻璃钢肱骨</PlasteelHumerus.labelNoun>
   
   <!-- EN: plasteel radius -->
-  <PlasteelRadius.label>TODO</PlasteelRadius.label>
+  <PlasteelRadius.label>玻璃钢桡骨</PlasteelRadius.label>
   <!-- EN: An installed plasteel radius. -->
-  <PlasteelRadius.description>TODO</PlasteelRadius.description>
+  <PlasteelRadius.description>一根已安装的玻璃钢桡骨。</PlasteelRadius.description>
   <!-- EN: a plasteel radius -->
-  <PlasteelRadius.labelNoun>TODO</PlasteelRadius.labelNoun>
+  <PlasteelRadius.labelNoun>玻璃钢桡骨</PlasteelRadius.labelNoun>
   
   <!-- EN: plasteel sternum -->
-  <PlasteelSternum.label>TODO</PlasteelSternum.label>
+  <PlasteelSternum.label>玻璃钢胸骨</PlasteelSternum.label>
   <!-- EN: An installed plasteel sternum. -->
-  <PlasteelSternum.description>TODO</PlasteelSternum.description>
+  <PlasteelSternum.description>一根已安装的玻璃钢胸骨。</PlasteelSternum.description>
   <!-- EN: a plasteel sternum -->
-  <PlasteelSternum.labelNoun>TODO</PlasteelSternum.labelNoun>
+  <PlasteelSternum.labelNoun>玻璃钢胸骨</PlasteelSternum.labelNoun>
   
   <!-- EN: plasteel tibia -->
-  <PlasteelTibia.label>TODO</PlasteelTibia.label>
+  <PlasteelTibia.label>玻璃钢胫骨</PlasteelTibia.label>
   <!-- EN: An installed plasteel tibia. -->
-  <PlasteelTibia.description>TODO</PlasteelTibia.description>
+  <PlasteelTibia.description>一根已安装的玻璃钢胫骨。</PlasteelTibia.description>
   <!-- EN: a plasteel tibia -->
-  <PlasteelTibia.labelNoun>TODO</PlasteelTibia.labelNoun>
+  <PlasteelTibia.labelNoun>玻璃钢胫骨</PlasteelTibia.labelNoun>
   
 </LanguageData>

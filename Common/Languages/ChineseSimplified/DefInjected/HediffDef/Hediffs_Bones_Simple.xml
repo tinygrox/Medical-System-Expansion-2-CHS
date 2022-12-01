@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: prosthetic clavicle -->
-  <SimpleProstheticClavicle.label>TODO</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.label>人造锁骨</SimpleProstheticClavicle.label>
   <!-- EN: An installed prosthetic clavicle. -->
-  <SimpleProstheticClavicle.description>TODO</SimpleProstheticClavicle.description>
+  <SimpleProstheticClavicle.description>一根已安装的人造锁骨。</SimpleProstheticClavicle.description>
   <!-- EN: a prosthetic clavicle -->
-  <SimpleProstheticClavicle.labelNoun>TODO</SimpleProstheticClavicle.labelNoun>
+  <SimpleProstheticClavicle.labelNoun>人造锁骨</SimpleProstheticClavicle.labelNoun>
   
   <!-- EN: prosthetic femur -->
-  <SimpleProstheticFemur.label>TODO</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.label>人造股骨</SimpleProstheticFemur.label>
   <!-- EN: An installed prosthetic femur. -->
-  <SimpleProstheticFemur.description>TODO</SimpleProstheticFemur.description>
+  <SimpleProstheticFemur.description>一根已安装的人造股骨。</SimpleProstheticFemur.description>
   <!-- EN: a prosthetic femur -->
-  <SimpleProstheticFemur.labelNoun>TODO</SimpleProstheticFemur.labelNoun>
+  <SimpleProstheticFemur.labelNoun>人造股骨</SimpleProstheticFemur.labelNoun>
   
   <!-- EN: prosthetic humerus -->
-  <SimpleProstheticHumerus.label>TODO</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.label>人造肱骨</SimpleProstheticHumerus.label>
   <!-- EN: An installed prosthetic humerus. -->
-  <SimpleProstheticHumerus.description>TODO</SimpleProstheticHumerus.description>
+  <SimpleProstheticHumerus.description>一根已安装的人造肱骨。</SimpleProstheticHumerus.description>
   <!-- EN: a prosthetic humerus -->
-  <SimpleProstheticHumerus.labelNoun>TODO</SimpleProstheticHumerus.labelNoun>
+  <SimpleProstheticHumerus.labelNoun>人造肱骨</SimpleProstheticHumerus.labelNoun>
   
   <!-- EN: prosthetic radius -->
-  <SimpleProstheticRadius.label>TODO</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.label>人造桡骨</SimpleProstheticRadius.label>
   <!-- EN: An installed prosthetic radius. -->
-  <SimpleProstheticRadius.description>TODO</SimpleProstheticRadius.description>
+  <SimpleProstheticRadius.description>一根已安装的人造桡骨。</SimpleProstheticRadius.description>
   <!-- EN: a prosthetic radius -->
-  <SimpleProstheticRadius.labelNoun>TODO</SimpleProstheticRadius.labelNoun>
+  <SimpleProstheticRadius.labelNoun>人造桡骨</SimpleProstheticRadius.labelNoun>
   
   <!-- EN: prosthetic sternum -->
-  <SimpleProstheticSternum.label>TODO</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.label>人造胸骨</SimpleProstheticSternum.label>
   <!-- EN: An installed prosthetic sternum. -->
-  <SimpleProstheticSternum.description>TODO</SimpleProstheticSternum.description>
+  <SimpleProstheticSternum.description>一根已安装的人造胸骨。</SimpleProstheticSternum.description>
   <!-- EN: a prosthetic sternum -->
-  <SimpleProstheticSternum.labelNoun>TODO</SimpleProstheticSternum.labelNoun>
+  <SimpleProstheticSternum.labelNoun>人造胸骨</SimpleProstheticSternum.labelNoun>
   
   <!-- EN: prosthetic tibia -->
-  <SimpleProstheticTibia.label>TODO</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.label>人造胫骨</SimpleProstheticTibia.label>
   <!-- EN: An installed prosthetic tibia. -->
-  <SimpleProstheticTibia.description>TODO</SimpleProstheticTibia.description>
+  <SimpleProstheticTibia.description>一根已安装的人造胫骨。</SimpleProstheticTibia.description>
   <!-- EN: a prosthetic tibia -->
-  <SimpleProstheticTibia.labelNoun>TODO</SimpleProstheticTibia.labelNoun>
+  <SimpleProstheticTibia.labelNoun>人造胫骨</SimpleProstheticTibia.labelNoun>
   
 </LanguageData>

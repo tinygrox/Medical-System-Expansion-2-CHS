@@ -27,7 +27,7 @@
 
 	<!-- HideModuleSlotsSetting -->
 	<!-- EN: Hide module slots -->
-  <HideModuleSlotsSetting_Title>TODO</HideModuleSlotsSetting_Title>
+  <HideModuleSlotsSetting_Title>隐藏模块插槽</HideModuleSlotsSetting_Title>
 	<!-- EN: When toggled on, module slots will not be visible in the health tab. -->
   <HideModuleSlotsSetting_Description>TODO</HideModuleSlotsSetting_Description>
 

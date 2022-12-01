@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install elbow blade module -->
-  <InstallElbowBladeModule.label>TODO</InstallElbowBladeModule.label>
+  <InstallElbowBladeModule.label>安装肘刀模块</InstallElbowBladeModule.label>
   <!-- EN: Install an elbow blade module. -->
-  <InstallElbowBladeModule.description>TODO</InstallElbowBladeModule.description>
+  <InstallElbowBladeModule.description>安装肘刀模块。</InstallElbowBladeModule.description>
   <!-- EN: Installing elbow blade module. -->
-  <InstallElbowBladeModule.jobString>TODO</InstallElbowBladeModule.jobString>
+  <InstallElbowBladeModule.jobString>正在安装肘刀模块。</InstallElbowBladeModule.jobString>
   
   <!-- EN: install hand talon module -->
-  <InstallHandTalonModule.label>TODO</InstallHandTalonModule.label>
+  <InstallHandTalonModule.label>安装手爪模块</InstallHandTalonModule.label>
   <!-- EN: Install a hand talon module. -->
-  <InstallHandTalonModule.description>TODO</InstallHandTalonModule.description>
+  <InstallHandTalonModule.description>安装手爪模块。</InstallHandTalonModule.description>
   <!-- EN: Installing hand talon module. -->
-  <InstallHandTalonModule.jobString>TODO</InstallHandTalonModule.jobString>
+  <InstallHandTalonModule.jobString>正在安装手爪模块。</InstallHandTalonModule.jobString>
   
   <!-- EN: install knee spike module -->
-  <InstallKneeSpikeModule.label>TODO</InstallKneeSpikeModule.label>
+  <InstallKneeSpikeModule.label>安装膝钉模块</InstallKneeSpikeModule.label>
   <!-- EN: Install a knee spike module. -->
-  <InstallKneeSpikeModule.description>TODO</InstallKneeSpikeModule.description>
+  <InstallKneeSpikeModule.description>安装膝钉模块。</InstallKneeSpikeModule.description>
   <!-- EN: Installing knee spike module. -->
-  <InstallKneeSpikeModule.jobString>TODO</InstallKneeSpikeModule.jobString>
+  <InstallKneeSpikeModule.jobString>正在安装膝钉模块。</InstallKneeSpikeModule.jobString>
   
   <!-- EN: install venom talon module -->
-  <InstallVenomTalonModule.label>TODO</InstallVenomTalonModule.label>
+  <InstallVenomTalonModule.label>安装毒爪模块</InstallVenomTalonModule.label>
   <!-- EN: Install a venom talon module. -->
-  <InstallVenomTalonModule.description>TODO</InstallVenomTalonModule.description>
+  <InstallVenomTalonModule.description>安装毒爪模块。</InstallVenomTalonModule.description>
   <!-- EN: Installing venom talon module. -->
-  <InstallVenomTalonModule.jobString>TODO</InstallVenomTalonModule.jobString>
+  <InstallVenomTalonModule.jobString>正在安装毒爪模块。</InstallVenomTalonModule.jobString>
   
 </LanguageData>

@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: prosthetic clavicle -->
-  <SimpleProstheticClavicle.label>TODO</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.label>人造锁骨</SimpleProstheticClavicle.label>
   <!-- EN: A clavicle prosthesis. It is inferior to a real clavicle. -->
-  <SimpleProstheticClavicle.description>TODO</SimpleProstheticClavicle.description>
+  <SimpleProstheticClavicle.description>一个锁骨假体。不如原生的锁骨。</SimpleProstheticClavicle.description>
   
   <!-- EN: prosthetic femur -->
-  <SimpleProstheticFemur.label>TODO</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.label>人造股骨</SimpleProstheticFemur.label>
   <!-- EN: A femur prosthesis. It is inferior to a real femur. -->
-  <SimpleProstheticFemur.description>TODO</SimpleProstheticFemur.description>
+  <SimpleProstheticFemur.description>一个股骨假体。不如原生的股骨。</SimpleProstheticFemur.description>
   
   <!-- EN: prosthetic humerus -->
-  <SimpleProstheticHumerus.label>TODO</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.label>人造肱骨</SimpleProstheticHumerus.label>
   <!-- EN: A humerus prosthesis. It is inferior to a real humerus. -->
-  <SimpleProstheticHumerus.description>TODO</SimpleProstheticHumerus.description>
+  <SimpleProstheticHumerus.description>一个肱骨假体。不如原生的肱骨。</SimpleProstheticHumerus.description>
   
   <!-- EN: prosthetic radius -->
-  <SimpleProstheticRadius.label>TODO</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.label>人造桡骨</SimpleProstheticRadius.label>
   <!-- EN: A radius prosthesis. It is inferior to a real radius. -->
-  <SimpleProstheticRadius.description>TODO</SimpleProstheticRadius.description>
+  <SimpleProstheticRadius.description>一个桡骨假体。不如原生的桡骨。</SimpleProstheticRadius.description>
   
   <!-- EN: prosthetic sternum -->
-  <SimpleProstheticSternum.label>TODO</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.label>人造胸骨</SimpleProstheticSternum.label>
   <!-- EN: A sternum prosthesis. It is inferior to a real sternum. -->
-  <SimpleProstheticSternum.description>TODO</SimpleProstheticSternum.description>
+  <SimpleProstheticSternum.description>一个胸骨假体。不如原生的胸骨。</SimpleProstheticSternum.description>
   
   <!-- EN: prosthetic tibia -->
-  <SimpleProstheticTibia.label>TODO</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.label>人造胫骨</SimpleProstheticTibia.label>
   <!-- EN: A tibia prosthesis. It is inferior to a real tibia. -->
-  <SimpleProstheticTibia.description>TODO</SimpleProstheticTibia.description>
+  <SimpleProstheticTibia.description>一个胫骨假体。不如原生的胫骨。</SimpleProstheticTibia.description>
   
 </LanguageData>

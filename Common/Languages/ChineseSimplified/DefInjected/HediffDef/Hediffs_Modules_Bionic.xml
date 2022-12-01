@@ -2,47 +2,47 @@
 <LanguageData>
   
   <!-- EN: crafting tools module -->
-  <CraftingToolsModule.label>TODO</CraftingToolsModule.label>
+  <CraftingToolsModule.label>手工模块</CraftingToolsModule.label>
   <!-- EN: An installed crafting tools module. -->
-  <CraftingToolsModule.description>TODO</CraftingToolsModule.description>
+  <CraftingToolsModule.description>一个已安装的手工模块。</CraftingToolsModule.description>
   <!-- EN: a crafting tools module -->
-  <CraftingToolsModule.labelNoun>TODO</CraftingToolsModule.labelNoun>
+  <CraftingToolsModule.labelNoun>手工模块</CraftingToolsModule.labelNoun>
   
   <!-- EN: melee platform module -->
-  <MeleePlatformModule.label>TODO</MeleePlatformModule.label>
+  <MeleePlatformModule.label>格斗模块</MeleePlatformModule.label>
   <!-- EN: An installed melee platform module. -->
-  <MeleePlatformModule.description>TODO</MeleePlatformModule.description>
+  <MeleePlatformModule.description>一个已安装的格斗模块。</MeleePlatformModule.description>
   <!-- EN: a melee platform module -->
-  <MeleePlatformModule.labelNoun>TODO</MeleePlatformModule.labelNoun>
+  <MeleePlatformModule.labelNoun>格斗模块</MeleePlatformModule.labelNoun>
   
   <!-- EN: advanced processing module -->
-  <ModuleEfficiency.label>TODO</ModuleEfficiency.label>
+  <ModuleEfficiency.label>高级处理模块</ModuleEfficiency.label>
   <!-- EN: An installed advanced processing module. -->
-  <ModuleEfficiency.description>TODO</ModuleEfficiency.description>
+  <ModuleEfficiency.description>一个已安装的高级处理模块。</ModuleEfficiency.description>
   <!-- EN: an advanced processing module -->
-  <ModuleEfficiency.labelNoun>TODO</ModuleEfficiency.labelNoun>
+  <ModuleEfficiency.labelNoun>高级处理模块</ModuleEfficiency.labelNoun>
   
   <!-- EN: advanced processing module -->
-  <ModuleEfficiency_Effector.label>TODO</ModuleEfficiency_Effector.label>
+  <ModuleEfficiency_Effector.label>高级处理模块</ModuleEfficiency_Effector.label>
   <!-- EN: An installed advanced processing module. -->
-  <ModuleEfficiency_Effector.description>TODO</ModuleEfficiency_Effector.description>
+  <ModuleEfficiency_Effector.description>一个已安装的高级处理模块。</ModuleEfficiency_Effector.description>
   <!-- EN: an advanced processing module -->
-  <ModuleEfficiency_Effector.labelNoun>TODO</ModuleEfficiency_Effector.labelNoun>
+  <ModuleEfficiency_Effector.labelNoun>高级处理模块</ModuleEfficiency_Effector.labelNoun>
   
   <!-- EN: power claw module -->
-  <PowerClaw.label>动力爪</PowerClaw.label>
+  <PowerClaw.label>动力爪模块</PowerClaw.label>
   <!-- EN: An installed power claw module. -->
-  <PowerClaw.description>一只已安装的动力爪</PowerClaw.description>
+  <PowerClaw.description>一只已安装的动力爪模块。</PowerClaw.description>
   <!-- EN: claw -->
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
-  <PowerClaw.labelNoun>动力爪</PowerClaw.labelNoun>
+  <PowerClaw.labelNoun>动力爪模块</PowerClaw.labelNoun>
   
   <!-- EN: ranged platform module -->
-  <RangedPlatformModule.label>TODO</RangedPlatformModule.label>
+  <RangedPlatformModule.label>射击模块</RangedPlatformModule.label>
   <!-- EN: An installed ranged platform module. -->
-  <RangedPlatformModule.description>TODO</RangedPlatformModule.description>
+  <RangedPlatformModule.description>一个已安装的射击模块。</RangedPlatformModule.description>
   <!-- EN: a ranged platform module -->
-  <RangedPlatformModule.labelNoun>TODO</RangedPlatformModule.labelNoun>
+  <RangedPlatformModule.labelNoun>射击模块</RangedPlatformModule.labelNoun>
   
 </LanguageData>

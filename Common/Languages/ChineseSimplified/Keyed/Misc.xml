@@ -3,49 +3,49 @@
 
 	<!-- version labeling -->
 	<!-- EN: complete -->
-  <LimbComplete>TODO</LimbComplete>
+  <LimbComplete>完整</LimbComplete>
 	<!-- EN: segment -->
-  <LimbSegment>TODO</LimbSegment>
+  <LimbSegment>部件</LimbSegment>
 	<!-- EN: simple -->
-  <LimbSimple>TODO</LimbSimple>
+  <LimbSimple>简易</LimbSimple>
 	<!-- EN: version -->
-  <LimbVersion>TODO</LimbVersion>
+  <LimbVersion>型号</LimbVersion>
 	<!-- EN: compatible -->
-  <LimbCompatible>TODO</LimbCompatible>
+  <LimbCompatible>兼容</LimbCompatible>
 	<!-- EN: not compatible -->
-  <LimbIncompatible>TODO</LimbIncompatible>
+  <LimbIncompatible>不兼容</LimbIncompatible>
 	<!-- EN:  (current version) -->
-  <LimbSelected>TODO</LimbSelected>
+  <LimbSelected>（当前型号）</LimbSelected>
 
 	<!-- Recipe Generation -->	
 	<!-- EN: make {0} segment -->
-  <RecipeMakeSegment>TODO</RecipeMakeSegment>
+  <RecipeMakeSegment>制作{0}部件</RecipeMakeSegment>
 
 	<!-- EN: assemble {0} -->
-  <RecipeMakeUpgrade>TODO</RecipeMakeUpgrade>
+  <RecipeMakeUpgrade>组装{0}</RecipeMakeUpgrade>
 
   <!-- EN: make complete {0} ({1}) -->
-  <RecipeMakeForLimb>TODO</RecipeMakeForLimb>
+  <RecipeMakeForLimb>制作完整{0}（{1}）</RecipeMakeForLimb>
   <!-- EN: make complete {0} -->
-  <RecipeMakeForLimbNoComparison>TODO</RecipeMakeForLimbNoComparison>
+  <RecipeMakeForLimbNoComparison>制作完整{0}</RecipeMakeForLimbNoComparison>
 	<!-- EN: Make {0} {1}. It will be installable on the following races: {2}. -->
-  <RecipeMakeForLimbDescription>TODO</RecipeMakeForLimbDescription>
+  <RecipeMakeForLimbDescription>制作{0} {1}。可在以下种族使用：{2}</RecipeMakeForLimbDescription>
 	<!-- EN: Making {0} ({1}). -->
-  <RecipeMakeForLimbJobString>TODO</RecipeMakeForLimbJobString>
+  <RecipeMakeForLimbJobString>正在制作{0}（{1}）</RecipeMakeForLimbJobString>
 
 	<!-- Dialog StatsReports -->
 
 	<!-- EN: Includes {0}: {1} -->
-  <StatsReport_ValueOfSubParts>TODO</StatsReport_ValueOfSubParts>
+  <StatsReport_ValueOfSubParts>包括{0}：{1}</StatsReport_ValueOfSubParts>
 	<!-- EN: Contains {0}: {1} -->
-  <StatsReport_MassOfSubParts>TODO</StatsReport_MassOfSubParts>
+  <StatsReport_MassOfSubParts>包含{0}：{1}</StatsReport_MassOfSubParts>
 
 
 	<!-- CompIncludedChildParts -->
 	<!-- EN: Includes {0} direct subparts. -->
   <CompIncludedChildParts_InspectStringIncludes>TODO</CompIncludedChildParts_InspectStringIncludes>
 	<!-- EN: Version: {0} -->
-  <CompIncludedChildParts_InspectStringTarget>TODO</CompIncludedChildParts_InspectStringTarget>
+  <CompIncludedChildParts_InspectStringTarget>型号：{0}</CompIncludedChildParts_InspectStringTarget>
 	<!-- EN:  ({0} missing parts) -->
   <CompIncludedChildParts_InspectStringMissing>TODO</CompIncludedChildParts_InspectStringMissing>
 	<!-- EN: Included subparts -->
@@ -65,7 +65,7 @@
 
 	<!-- ModuleHolder -->
 	<!-- EN: Module slots -->
-  <ModuleHolder_Compatible_Label>TODO</ModuleHolder_Compatible_Label>
+  <ModuleHolder_Compatible_Label>模块插槽</ModuleHolder_Compatible_Label>
 	<!-- EN: The following modules can be installed in slots belonging to this bionic: -->
   <ModuleHolder_Compatible_ReportText>TODO</ModuleHolder_Compatible_ReportText>
 

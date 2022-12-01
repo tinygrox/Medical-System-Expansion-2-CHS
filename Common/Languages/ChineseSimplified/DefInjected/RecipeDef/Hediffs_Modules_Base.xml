@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: remove modules -->
-  <MSE_RemoveModules.label>TODO</MSE_RemoveModules.label>
+  <MSE_RemoveModules.label>移除模块</MSE_RemoveModules.label>
   <!-- EN: Remove all modules from a bodypart. -->
-  <MSE_RemoveModules.description>TODO</MSE_RemoveModules.description>
+  <MSE_RemoveModules.description>从某个身体部位上移除所有模块。</MSE_RemoveModules.description>
   <!-- EN: Removing modules. -->
-  <MSE_RemoveModules.jobString>TODO</MSE_RemoveModules.jobString>
+  <MSE_RemoveModules.jobString>正在移除模块。</MSE_RemoveModules.jobString>
   
 </LanguageData>

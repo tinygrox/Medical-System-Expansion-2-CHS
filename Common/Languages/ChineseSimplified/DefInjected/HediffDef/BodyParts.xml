@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: field finger -->
-  <FieldFinger.label>TODO</FieldFinger.label>
+  <FieldFinger.label>务农指</FieldFinger.label>
   <!-- EN: An installed field finger. -->
-  <FieldFinger.description>TODO</FieldFinger.description>
+  <FieldFinger.description>一个安装在人体的务农指。</FieldFinger.description>
   <!-- EN: a field finger -->
-  <FieldFinger.labelNoun>TODO</FieldFinger.labelNoun>
+  <FieldFinger.labelNoun>务农指</FieldFinger.labelNoun>
   
   <!-- EN: mechanical finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>机械指</MechanicalFinger.label>
   <!-- EN: An installed mechanical finger. -->
-  <MechanicalFinger.description>TODO</MechanicalFinger.description>
+  <MechanicalFinger.description>一根已安装的机械指。</MechanicalFinger.description>
   <!-- EN: a mechanical finger -->
-  <MechanicalFinger.labelNoun>TODO</MechanicalFinger.labelNoun>
+  <MechanicalFinger.labelNoun>机械指</MechanicalFinger.labelNoun>
   
   <!-- EN: mechanical internal support -->
-  <MechanicalInternalSupport.label>TODO</MechanicalInternalSupport.label>
+  <MechanicalInternalSupport.label>机械支撑骨</MechanicalInternalSupport.label>
   <!-- EN: An internal mechanical internal support. -->
-  <MechanicalInternalSupport.description>TODO</MechanicalInternalSupport.description>
+  <MechanicalInternalSupport.description>一根已安装的机械支撑骨。</MechanicalInternalSupport.description>
   <!-- EN: a mechanical internal support -->
-  <MechanicalInternalSupport.labelNoun>TODO</MechanicalInternalSupport.labelNoun>
+  <MechanicalInternalSupport.labelNoun>机械支撑骨</MechanicalInternalSupport.labelNoun>
   
   <!-- EN: mechanical manipulator -->
-  <MechanicalManipulator.label>TODO</MechanicalManipulator.label>
+  <MechanicalManipulator.label>机械手</MechanicalManipulator.label>
   <!-- EN: An installed mechanical manipulator. -->
-  <MechanicalManipulator.description>TODO</MechanicalManipulator.description>
+  <MechanicalManipulator.description>一个已安装的机械手</MechanicalManipulator.description>
   <!-- EN: a mechanical manipulator -->
-  <MechanicalManipulator.labelNoun>TODO</MechanicalManipulator.labelNoun>
+  <MechanicalManipulator.labelNoun>机械手</MechanicalManipulator.labelNoun>
   
 </LanguageData>

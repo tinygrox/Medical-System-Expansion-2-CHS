@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: crafting tools module -->
-  <CraftingToolsModule.label>TODO</CraftingToolsModule.label>
+  <CraftingToolsModule.label>手工模块</CraftingToolsModule.label>
   <!-- EN: A crafting tools module. Provides screwdrivers, shears, welders and other miniaturized mechanical tools to help with smithing, producing items and building. The tools can be retracted to allow normal functionality of the part, however its overall ungainlyness slows down movement slightly. -->
-  <CraftingToolsModule.description>TODO</CraftingToolsModule.description>
+  <CraftingToolsModule.description>一个手工模块。内有螺丝刀、剪刀焊枪和其他的小型器械工具，用以帮助制作物品和建造建筑。工具可以缩回变成手，然而它会影响肢体协调从而减弱行动能力。</CraftingToolsModule.description>
   
   <!-- EN: melee platform module -->
-  <MeleePlatformModule.label>TODO</MeleePlatformModule.label>
+  <MeleePlatformModule.label>格斗模块</MeleePlatformModule.label>
   <!-- EN: An advanced melee platform module. With sensory motor and targeting system can give your pawn great melee damage and improve your pawn's melee combat ability. -->
-  <MeleePlatformModule.description>TODO</MeleePlatformModule.description>
+  <MeleePlatformModule.description>一个先进的格斗模块。内置的感觉运动马达和瞄准系统可以增加殖民者的近战伤害，提高格斗技能。</MeleePlatformModule.description>
   
   <!-- EN: advanced processing module -->
-  <ModuleEfficiency.label>TODO</ModuleEfficiency.label>
+  <ModuleEfficiency.label>高级处理模块</ModuleEfficiency.label>
   <!-- EN: Extra processing power to optimize and boost the performance of a bionic prosthesis. It will improve the efficiency of the part it is installed on and of any connected bionics. -->
-  <ModuleEfficiency.description>TODO</ModuleEfficiency.description>
+  <ModuleEfficiency.description>额外的处理能力能优化提高仿生体的性能。提高仿生体部件的效率。</ModuleEfficiency.description>
   
   <!-- EN: power claw module -->
   <PowerClaw.label>动力爪</PowerClaw.label>
@@ -22,8 +22,8 @@
   <PowerClaw.description>一个战斗用的手部代替工具，由一只机械手组成，每个手指上都有一个钩状爪子。它的切力很强，足以像手捏鸡蛋一样捏碎头骨。爪子可以缩回，使它在非战斗任务中可以像自然手一样使用，然而它会影响肢体协调从而减弱行动能力。</PowerClaw.description>
   
   <!-- EN: ranged platform module -->
-  <RangedPlatformModule.label>TODO</RangedPlatformModule.label>
+  <RangedPlatformModule.label>射击模块</RangedPlatformModule.label>
   <!-- EN: An advanced ranged platform module. With stabilizer and targeting system can give your pawn great accuracy and improve your pawn's ranged combat ability. -->
-  <RangedPlatformModule.description>TODO</RangedPlatformModule.description>
+  <RangedPlatformModule.description>一个先进的射击模块。内置的稳定剂和瞄准系统可以增加殖民者的精确度，提高射击技能。</RangedPlatformModule.description>
   
 </LanguageData>

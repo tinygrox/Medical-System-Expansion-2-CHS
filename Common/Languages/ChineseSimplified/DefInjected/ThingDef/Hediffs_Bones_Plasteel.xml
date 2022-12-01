@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: plasteel clavicle -->
-  <PlasteelClavicle.label>TODO</PlasteelClavicle.label>
+  <PlasteelClavicle.label>玻璃钢锁骨</PlasteelClavicle.label>
   <!-- EN: An advanced artificial clavicle. -->
-  <PlasteelClavicle.description>TODO</PlasteelClavicle.description>
+  <PlasteelClavicle.description>一个先进的人造锁骨。</PlasteelClavicle.description>
   
   <!-- EN: plasteel femur -->
-  <PlasteelFemur.label>TODO</PlasteelFemur.label>
+  <PlasteelFemur.label>玻璃钢股骨</PlasteelFemur.label>
   <!-- EN: An advanced artificial femur. -->
-  <PlasteelFemur.description>TODO</PlasteelFemur.description>
+  <PlasteelFemur.description>一个先进的人造股骨。</PlasteelFemur.description>
   
   <!-- EN: plasteel humerus -->
-  <PlasteelHumerus.label>TODO</PlasteelHumerus.label>
+  <PlasteelHumerus.label>玻璃钢肱骨</PlasteelHumerus.label>
   <!-- EN: An advanced artificial humerus. -->
-  <PlasteelHumerus.description>TODO</PlasteelHumerus.description>
+  <PlasteelHumerus.description>一个先进的人造肱骨。</PlasteelHumerus.description>
   
   <!-- EN: plasteel radius -->
-  <PlasteelRadius.label>TODO</PlasteelRadius.label>
+  <PlasteelRadius.label>玻璃钢桡骨</PlasteelRadius.label>
   <!-- EN: An advanced artificial radius. -->
-  <PlasteelRadius.description>TODO</PlasteelRadius.description>
+  <PlasteelRadius.description>一个先进的人造桡骨。</PlasteelRadius.description>
   
   <!-- EN: plasteel sternum -->
-  <PlasteelSternum.label>TODO</PlasteelSternum.label>
+  <PlasteelSternum.label>玻璃钢胸骨</PlasteelSternum.label>
   <!-- EN: An advanced artificial sternum. -->
-  <PlasteelSternum.description>TODO</PlasteelSternum.description>
+  <PlasteelSternum.description>一个先进的人造胸骨。</PlasteelSternum.description>
   
   <!-- EN: plasteel tibia -->
-  <PlasteelTibia.label>TODO</PlasteelTibia.label>
+  <PlasteelTibia.label>玻璃钢胫骨</PlasteelTibia.label>
   <!-- EN: An advanced artificial tibia. -->
-  <PlasteelTibia.description>TODO</PlasteelTibia.description>
+  <PlasteelTibia.description>一个先进的人造胫骨。</PlasteelTibia.description>
   
 </LanguageData>

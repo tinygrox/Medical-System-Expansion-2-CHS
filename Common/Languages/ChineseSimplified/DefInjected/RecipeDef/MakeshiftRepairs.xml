@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: makeshift repair -->
-  <MakeshiftRepair.label>TODO</MakeshiftRepair.label>
+  <MakeshiftRepair.label>临时修补</MakeshiftRepair.label>
   <!-- EN: Repair a prosthesis using raw materials. -->
-  <MakeshiftRepair.description>TODO</MakeshiftRepair.description>
+  <MakeshiftRepair.description>使用假体对应的材料修复假体。</MakeshiftRepair.description>
   <!-- EN: Repairing prosthesis. -->
-  <MakeshiftRepair.jobString>TODO</MakeshiftRepair.jobString>
+  <MakeshiftRepair.jobString>正在修补假体。</MakeshiftRepair.jobString>
   
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: module slot -->
-  <MSE_ModuleSlot.label>TODO</MSE_ModuleSlot.label>
+  <MSE_ModuleSlot.label>模块插槽</MSE_ModuleSlot.label>
   <!-- EN: A slot for upgrading -->
-  <MSE_ModuleSlot.description>TODO</MSE_ModuleSlot.description>
+  <MSE_ModuleSlot.description>用于进行升级改造的插槽</MSE_ModuleSlot.description>
   <!-- EN: a module slot -->
-  <MSE_ModuleSlot.labelNoun>TODO</MSE_ModuleSlot.labelNoun>
+  <MSE_ModuleSlot.labelNoun>模块插槽</MSE_ModuleSlot.labelNoun>
   
 </LanguageData>

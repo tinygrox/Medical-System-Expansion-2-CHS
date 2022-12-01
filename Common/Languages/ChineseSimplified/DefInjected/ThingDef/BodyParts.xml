@@ -7,28 +7,28 @@
   <DrillArm.description>一款加快挖掘速度的机械手臂。内置了蛇形钻杆，可以帮助矿工更快地找到岩石中的弱点。此外还配备了通用机械手，它有点笨拙，这会稍微影响到移动能力。</DrillArm.description>
   
   <!-- EN: field finger -->
-  <FieldFinger.label>TODO</FieldFinger.label>
+  <FieldFinger.label>务农指</FieldFinger.label>
   <!-- EN: This mechanical finger replacement is made to speed up the sowing and harvesting tasks of a farmer, it can harvest from several points on the same plant, or precisely sow several holes at once. Can only be installed on a field hand. -->
-  <FieldFinger.description>TODO</FieldFinger.description>
+  <FieldFinger.description>一款可以加快播种和收割的机械指头，可以从一株的多个点进行收获，或者同时播种多棵植物。只能安装在务农手上面。</FieldFinger.description>
   
   <!-- EN: field hand -->
   <FieldHand.label>务农手</FieldHand.label>
   <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <FieldHand.description>一款可以加快播种和收割的机械手掌，多个可收缩的指状凸起可以从一株的多个点进行收货，或者同时播种多棵植物。此外还配备了通用机械手，它有点笨拙，这会稍微影响到移动能力。</FieldHand.description>
+  <FieldHand.description>一款可以加快播种和收割的机械手掌，多个可收缩的指状凸起可以从一株的多个点进行收获，或者同时播种多棵植物。此外还配备了通用机械手，它有点笨拙，这会稍微影响到移动能力。</FieldHand.description>
   
   <!-- EN: mechanical finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>机械指</MechanicalFinger.label>
   <!-- EN: A general purpose mechanical finger. Can only be installed on a mechanical manipulator. -->
-  <MechanicalFinger.description>TODO</MechanicalFinger.description>
+  <MechanicalFinger.description>一根通用的机械手指。只能安装在机械手上。</MechanicalFinger.description>
   
   <!-- EN: mechanical internal support -->
-  <MechanicalInternalSupport.label>TODO</MechanicalInternalSupport.label>
+  <MechanicalInternalSupport.label>机械支撑骨</MechanicalInternalSupport.label>
   <!-- EN: A mechanical internal support. Useful replacement part to have when some internal component of a drill arm is broken. -->
-  <MechanicalInternalSupport.description>TODO</MechanicalInternalSupport.description>
+  <MechanicalInternalSupport.description>一根机械支撑骨。当挖掘臂内的某些部件损坏时可作为有用的更换零件。</MechanicalInternalSupport.description>
   
   <!-- EN: mechanical manipulator -->
-  <MechanicalManipulator.label>TODO</MechanicalManipulator.label>
+  <MechanicalManipulator.label>机械手</MechanicalManipulator.label>
   <!-- EN: A general-purpose manipulator, not as good as normal hand but better than nothing. Can only be installed on a drill arm. -->
-  <MechanicalManipulator.description>TODO</MechanicalManipulator.description>
+  <MechanicalManipulator.description>一个通用的机械手，效率上不如原生手，但聊胜于无。只能安装在挖掘臂上。</MechanicalManipulator.description>
   
 </LanguageData>

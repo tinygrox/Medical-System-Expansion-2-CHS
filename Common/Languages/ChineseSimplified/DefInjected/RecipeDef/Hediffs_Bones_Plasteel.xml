@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install plasteel clavicle -->
-  <InstallPlasteelClavicle.label>TODO</InstallPlasteelClavicle.label>
+  <InstallPlasteelClavicle.label>安装玻璃钢锁骨</InstallPlasteelClavicle.label>
   <!-- EN: Install a plasteel clavicle. -->
-  <InstallPlasteelClavicle.description>TODO</InstallPlasteelClavicle.description>
+  <InstallPlasteelClavicle.description>安装玻璃钢锁骨。</InstallPlasteelClavicle.description>
   <!-- EN: Installing plasteel clavicle. -->
-  <InstallPlasteelClavicle.jobString>TODO</InstallPlasteelClavicle.jobString>
+  <InstallPlasteelClavicle.jobString>正在安装玻璃钢锁骨。</InstallPlasteelClavicle.jobString>
   
   <!-- EN: install plasteel femur -->
-  <InstallPlasteelFemur.label>TODO</InstallPlasteelFemur.label>
+  <InstallPlasteelFemur.label>安装玻璃钢股骨</InstallPlasteelFemur.label>
   <!-- EN: Install a plasteel femur. -->
-  <InstallPlasteelFemur.description>TODO</InstallPlasteelFemur.description>
+  <InstallPlasteelFemur.description>安装玻璃钢股骨。</InstallPlasteelFemur.description>
   <!-- EN: Installing plasteel femur. -->
-  <InstallPlasteelFemur.jobString>TODO</InstallPlasteelFemur.jobString>
+  <InstallPlasteelFemur.jobString>正在安装玻璃钢股骨。</InstallPlasteelFemur.jobString>
   
   <!-- EN: install plasteel humerus -->
-  <InstallPlasteelHumerus.label>TODO</InstallPlasteelHumerus.label>
+  <InstallPlasteelHumerus.label>安装玻璃钢肱骨</InstallPlasteelHumerus.label>
   <!-- EN: Install a plasteel humerus. -->
-  <InstallPlasteelHumerus.description>TODO</InstallPlasteelHumerus.description>
+  <InstallPlasteelHumerus.description>安装玻璃钢肱骨。</InstallPlasteelHumerus.description>
   <!-- EN: Installing plasteel humerus. -->
-  <InstallPlasteelHumerus.jobString>TODO</InstallPlasteelHumerus.jobString>
+  <InstallPlasteelHumerus.jobString>正在安装玻璃钢肱骨。</InstallPlasteelHumerus.jobString>
   
   <!-- EN: install plasteel radius -->
-  <InstallPlasteelRadius.label>TODO</InstallPlasteelRadius.label>
+  <InstallPlasteelRadius.label>安装玻璃钢桡骨</InstallPlasteelRadius.label>
   <!-- EN: Install a plasteel radius. -->
-  <InstallPlasteelRadius.description>TODO</InstallPlasteelRadius.description>
+  <InstallPlasteelRadius.description>安装玻璃钢桡骨。</InstallPlasteelRadius.description>
   <!-- EN: Installing plasteel radius. -->
-  <InstallPlasteelRadius.jobString>TODO</InstallPlasteelRadius.jobString>
+  <InstallPlasteelRadius.jobString>正在安装玻璃钢桡骨。</InstallPlasteelRadius.jobString>
   
   <!-- EN: install plasteel sternum -->
-  <InstallPlasteelSternum.label>TODO</InstallPlasteelSternum.label>
+  <InstallPlasteelSternum.label>安装玻璃钢胸骨</InstallPlasteelSternum.label>
   <!-- EN: Install a plasteel sternum. -->
-  <InstallPlasteelSternum.description>TODO</InstallPlasteelSternum.description>
+  <InstallPlasteelSternum.description>安装玻璃钢胸骨。</InstallPlasteelSternum.description>
   <!-- EN: Installing plasteel sternum. -->
-  <InstallPlasteelSternum.jobString>TODO</InstallPlasteelSternum.jobString>
+  <InstallPlasteelSternum.jobString>正在安装玻璃钢胸骨。</InstallPlasteelSternum.jobString>
   
   <!-- EN: install plasteel tibia -->
-  <InstallPlasteelTibia.label>TODO</InstallPlasteelTibia.label>
+  <InstallPlasteelTibia.label>安装玻璃钢胫骨</InstallPlasteelTibia.label>
   <!-- EN: Install a plasteel tibia. -->
-  <InstallPlasteelTibia.description>TODO</InstallPlasteelTibia.description>
+  <InstallPlasteelTibia.description>安装玻璃钢胫骨。</InstallPlasteelTibia.description>
   <!-- EN: Installing plasteel tibia. -->
-  <InstallPlasteelTibia.jobString>TODO</InstallPlasteelTibia.jobString>
+  <InstallPlasteelTibia.jobString>正在安装玻璃钢胫骨。</InstallPlasteelTibia.jobString>
   
 </LanguageData>

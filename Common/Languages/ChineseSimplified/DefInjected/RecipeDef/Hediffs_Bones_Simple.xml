@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: install prosthetic clavicle -->
-  <InstallSimpleProstheticClavicle.label>TODO</InstallSimpleProstheticClavicle.label>
+  <InstallSimpleProstheticClavicle.label>安装人造锁骨</InstallSimpleProstheticClavicle.label>
   <!-- EN: Install a prosthetic clavicle. -->
-  <InstallSimpleProstheticClavicle.description>TODO</InstallSimpleProstheticClavicle.description>
+  <InstallSimpleProstheticClavicle.description>安装人造锁骨。</InstallSimpleProstheticClavicle.description>
   <!-- EN: Installing prosthetic clavicle. -->
-  <InstallSimpleProstheticClavicle.jobString>TODO</InstallSimpleProstheticClavicle.jobString>
+  <InstallSimpleProstheticClavicle.jobString>正在安装人造锁骨。</InstallSimpleProstheticClavicle.jobString>
   
   <!-- EN: install prosthetic femur -->
-  <InstallSimpleProstheticFemur.label>TODO</InstallSimpleProstheticFemur.label>
+  <InstallSimpleProstheticFemur.label>安装人造股骨</InstallSimpleProstheticFemur.label>
   <!-- EN: Install a prosthetic femur. -->
-  <InstallSimpleProstheticFemur.description>TODO</InstallSimpleProstheticFemur.description>
+  <InstallSimpleProstheticFemur.description>安装人造股骨。</InstallSimpleProstheticFemur.description>
   <!-- EN: Installing prosthetic femur. -->
-  <InstallSimpleProstheticFemur.jobString>TODO</InstallSimpleProstheticFemur.jobString>
+  <InstallSimpleProstheticFemur.jobString>正在安装人造股骨。</InstallSimpleProstheticFemur.jobString>
   
   <!-- EN: install prosthetic humerus -->
-  <InstallSimpleProstheticHumerus.label>TODO</InstallSimpleProstheticHumerus.label>
+  <InstallSimpleProstheticHumerus.label>安装人造肱骨</InstallSimpleProstheticHumerus.label>
   <!-- EN: Install a prosthetic humerus. -->
-  <InstallSimpleProstheticHumerus.description>TODO</InstallSimpleProstheticHumerus.description>
+  <InstallSimpleProstheticHumerus.description>安装人造肱骨。</InstallSimpleProstheticHumerus.description>
   <!-- EN: Installing prosthetic humerus. -->
-  <InstallSimpleProstheticHumerus.jobString>TODO</InstallSimpleProstheticHumerus.jobString>
+  <InstallSimpleProstheticHumerus.jobString>正在安装人造肱骨。</InstallSimpleProstheticHumerus.jobString>
   
   <!-- EN: install prosthetic radius -->
-  <InstallSimpleProstheticRadius.label>TODO</InstallSimpleProstheticRadius.label>
+  <InstallSimpleProstheticRadius.label>安装人造桡骨</InstallSimpleProstheticRadius.label>
   <!-- EN: Install a prosthetic radius. -->
-  <InstallSimpleProstheticRadius.description>TODO</InstallSimpleProstheticRadius.description>
+  <InstallSimpleProstheticRadius.description>安装人造桡骨。</InstallSimpleProstheticRadius.description>
   <!-- EN: Installing prosthetic radius. -->
-  <InstallSimpleProstheticRadius.jobString>TODO</InstallSimpleProstheticRadius.jobString>
+  <InstallSimpleProstheticRadius.jobString>正在安装人造桡骨。</InstallSimpleProstheticRadius.jobString>
   
   <!-- EN: install prosthetic sternum -->
-  <InstallSimpleProstheticSternum.label>TODO</InstallSimpleProstheticSternum.label>
+  <InstallSimpleProstheticSternum.label>安装人造胸骨</InstallSimpleProstheticSternum.label>
   <!-- EN: Install a prosthetic sternum. -->
-  <InstallSimpleProstheticSternum.description>TODO</InstallSimpleProstheticSternum.description>
+  <InstallSimpleProstheticSternum.description>安装人造胸骨。</InstallSimpleProstheticSternum.description>
   <!-- EN: Installing prosthetic sternum. -->
-  <InstallSimpleProstheticSternum.jobString>TODO</InstallSimpleProstheticSternum.jobString>
+  <InstallSimpleProstheticSternum.jobString>正在安装人造胸骨。</InstallSimpleProstheticSternum.jobString>
   
   <!-- EN: install prosthetic tibia -->
-  <InstallSimpleProstheticTibia.label>TODO</InstallSimpleProstheticTibia.label>
+  <InstallSimpleProstheticTibia.label>安装人造胫骨</InstallSimpleProstheticTibia.label>
   <!-- EN: Install a prosthetic tibia. -->
-  <InstallSimpleProstheticTibia.description>TODO</InstallSimpleProstheticTibia.description>
+  <InstallSimpleProstheticTibia.description>安装人造胫骨。</InstallSimpleProstheticTibia.description>
   <!-- EN: Installing prosthetic tibia. -->
-  <InstallSimpleProstheticTibia.jobString>TODO</InstallSimpleProstheticTibia.jobString>
+  <InstallSimpleProstheticTibia.jobString>正在安装人造胫骨。</InstallSimpleProstheticTibia.jobString>
   
 </LanguageData>

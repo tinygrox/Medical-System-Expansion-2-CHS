@@ -4,28 +4,28 @@
 
 	<!-- Command_AddExistingSubpart -->
 	<!-- EN: Add sub-part -->
-  <CommandAddExistingSubpart_Label>TODO</CommandAddExistingSubpart_Label>
+  <CommandAddExistingSubpart_Label>添加子部件</CommandAddExistingSubpart_Label>
 	<!-- EN: Choose a part to add to this one's sub-parts. -->
-  <CommandAddExistingSubpart_Description>TODO</CommandAddExistingSubpart_Description>
+  <CommandAddExistingSubpart_Description>选择一个部件安装到子部件。</CommandAddExistingSubpart_Description>
 	<!-- EN: {0} (to {1}) -->
-  <CommandAddExistingSubpart_AddTo>TODO</CommandAddExistingSubpart_AddTo>
+	<CommandAddExistingSubpart_AddTo>{0}(到{1})</CommandAddExistingSubpart_AddTo>
 	<!-- EN: Could not find a compatible part to add. -->
-  <CommandAddExistingSubpart_CouldNotFindPart>TODO</CommandAddExistingSubpart_CouldNotFindPart>
+  <CommandAddExistingSubpart_CouldNotFindPart>找不到供安装的部件。</CommandAddExistingSubpart_CouldNotFindPart>
 
 	<!-- Command_SetTargetLimb -->
 	<!-- EN: Select version -->
-  <Command_SetTargetLimb_Label>TODO</Command_SetTargetLimb_Label>
+  <Command_SetTargetLimb_Label>选择型号</Command_SetTargetLimb_Label>
 	<!-- EN: Choose what limb this will replace -->
-  <Command_SetTargetLimb_Description>TODO</Command_SetTargetLimb_Description>
+  <Command_SetTargetLimb_Description>选择要替换的肢体</Command_SetTargetLimb_Description>
 	<!-- EN: Segment -->
-  <Command_SetTargetLimb_NoTarget>TODO</Command_SetTargetLimb_NoTarget>
+  <Command_SetTargetLimb_NoTarget>部件</Command_SetTargetLimb_NoTarget>
 
 	<!-- Command_SplitOffSubpart -->
 	<!-- EN: Remove sub-part -->
-  <CommandSplitOffSubpart_Label>TODO</CommandSplitOffSubpart_Label>
+  <CommandSplitOffSubpart_Label>移除子部件</CommandSplitOffSubpart_Label>
 	<!-- EN: Choose a part to remove from this one's subparts. -->
   <CommandSplitOffSubpart_Description>TODO</CommandSplitOffSubpart_Description>
 	<!-- EN: {0} (from {1}) -->
-  <CommandSplitOffSubpart_RemoveFrom>TODO</CommandSplitOffSubpart_RemoveFrom>
+	<CommandSplitOffSubpart_RemoveFrom>{0}(从{1})</CommandSplitOffSubpart_RemoveFrom>
 
 </LanguageData>

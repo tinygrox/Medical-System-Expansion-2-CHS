@@ -7,29 +7,29 @@
   <ArchotechArm.description>一种超凡世界制作的手臂，强大到可以轻松摧毁硬木，但又精细到能在一粒米的空间写下十四行诗，它看上去像是自然的手臂，但却比玻璃钢还难摧毁。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。</ArchotechArm.description>
   
   <!-- EN: archotech finger -->
-  <ArchotechFinger.label>TODO</ArchotechFinger.label>
+  <ArchotechFinger.label>超凡仿生指</ArchotechFinger.label>
   <!-- EN: An artifical finger built by an archotech. It looks and feels like natural finger, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
-  <ArchotechFinger.description>TODO</ArchotechFinger.description>
+  <ArchotechFinger.description>一只来自超凡世界的人造指。它看上去像是自然的手指，但却比玻璃钢还难摧毁。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个谜。需要研究超凡手术才能安装它。</ArchotechFinger.description>
   
   <!-- EN: archotech foot -->
-  <ArchotechFoot.label>TODO</ArchotechFoot.label>
+  <ArchotechFoot.label>超凡仿生足</ArchotechFoot.label>
   <!-- EN: An artifical foot built by an archotech. It looks and feels like natural foot, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
-  <ArchotechFoot.description>TODO</ArchotechFoot.description>
+  <ArchotechFoot.description>一只来自超凡世界的人造足。它看上去像是自然的足部，但比玻璃钢还坚固。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。需要研究超凡手术才能安装它。</ArchotechFoot.description>
   
   <!-- EN: archotech forearm -->
-  <ArchotechForearm.label>TODO</ArchotechForearm.label>
+  <ArchotechForearm.label>超凡仿生前臂</ArchotechForearm.label>
   <!-- EN: An artifical forearm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechForearm.description>TODO</ArchotechForearm.description>
+  <ArchotechForearm.description>一条来自超凡世界的人造前臂，强大到可以轻松摧毁硬木，但又精细到能在一粒米的空间写下十四行诗。它看上去像是自然的前臂，但却比玻璃钢还难摧毁。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。</ArchotechForearm.description>
   
   <!-- EN: archotech hand -->
-  <ArchotechHand.label>TODO</ArchotechHand.label>
+  <ArchotechHand.label>超凡仿生手</ArchotechHand.label>
   <!-- EN: An artifical hand built by an archotech. It looks and feels like natural hand, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
-  <ArchotechHand.description>TODO</ArchotechHand.description>
+  <ArchotechHand.description>一只来自超凡世界的人造手。它看上去像是自然的手，但比玻璃钢还坚固。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。需要研究超凡手术才能安装它。</ArchotechHand.description>
   
   <!-- EN: archotech internal support -->
-  <ArchotechInternalSupport.label>TODO</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.label>超凡支撑骨</ArchotechInternalSupport.label>
   <!-- EN: An artificial internal support built by an archotech. Useful replacement to have on hand for when an internal component of an archotech prosthesis breaks. -->
-  <ArchotechInternalSupport.description>TODO</ArchotechInternalSupport.description>
+  <ArchotechInternalSupport.description>一根来自超凡世界的人造支撑骨。超凡仿生体内部结构受到损坏时可作为有用的替代物。</ArchotechInternalSupport.description>
   
   <!-- EN: archotech leg -->
   <ArchotechLeg.label>超凡仿生腿</ArchotechLeg.label>
@@ -37,8 +37,8 @@
   <ArchotechLeg.description>一支来自超凡世界的人造腿，相比现代的仿生腿就如同艺术品一般，它看上去就像一条自然的腿，但却比玻璃钢更坚固，跑的比汽车还快，即使受到伤害也能飞快地自我修复，它的内部结构对于所有人来说都是个迷。</ArchotechLeg.description>
   
   <!-- EN: archotech toe -->
-  <ArchotechToe.label>TODO</ArchotechToe.label>
+  <ArchotechToe.label>超凡仿生趾</ArchotechToe.label>
   <!-- EN: An artifical toe built by an archotech. It looks and feels like a natural toe, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it. -->
-  <ArchotechToe.description>TODO</ArchotechToe.description>
+  <ArchotechToe.description>一只来自超凡世界的人造趾。它看上去像是自然的脚趾，却比玻璃钢还坚固。即使它受到伤害，它也会随着时间的推移自我修复，它的内部结构对于所有人来说都是个迷。需要研究超凡手术才能安装它。</ArchotechToe.description>
   
 </LanguageData>

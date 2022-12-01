@@ -9,32 +9,32 @@
   <InstallSimpleProstheticArm.jobString>正在安装假臂。</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic finger -->
-  <InstallSimpleProstheticFinger.label>TODO</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.label>安装假指</InstallSimpleProstheticFinger.label>
   <!-- EN: Install a prosthetic finger. -->
-  <InstallSimpleProstheticFinger.description>TODO</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.description>安装假指。</InstallSimpleProstheticFinger.description>
   <!-- EN: Installing prosthetic finger. -->
-  <InstallSimpleProstheticFinger.jobString>TODO</InstallSimpleProstheticFinger.jobString>
+  <InstallSimpleProstheticFinger.jobString>正在安装假指。</InstallSimpleProstheticFinger.jobString>
   
   <!-- EN: install prosthetic foot -->
-  <InstallSimpleProstheticFoot.label>TODO</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.label>安装假足</InstallSimpleProstheticFoot.label>
   <!-- EN: Install a prosthetic foot. -->
-  <InstallSimpleProstheticFoot.description>TODO</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.description>安装假足。</InstallSimpleProstheticFoot.description>
   <!-- EN: Installing prosthetic foot. -->
-  <InstallSimpleProstheticFoot.jobString>TODO</InstallSimpleProstheticFoot.jobString>
+  <InstallSimpleProstheticFoot.jobString>正在安装假足。</InstallSimpleProstheticFoot.jobString>
   
   <!-- EN: install prosthetic forearm -->
-  <InstallSimpleProstheticForearm.label>TODO</InstallSimpleProstheticForearm.label>
+  <InstallSimpleProstheticForearm.label>安装假前臂</InstallSimpleProstheticForearm.label>
   <!-- EN: Installs a prosthetic forearm. -->
-  <InstallSimpleProstheticForearm.description>TODO</InstallSimpleProstheticForearm.description>
+  <InstallSimpleProstheticForearm.description>安装假前臂。</InstallSimpleProstheticForearm.description>
   <!-- EN: Installing prosthetic forearm. -->
-  <InstallSimpleProstheticForearm.jobString>TODO</InstallSimpleProstheticForearm.jobString>
+  <InstallSimpleProstheticForearm.jobString>正在安装假前臂。</InstallSimpleProstheticForearm.jobString>
   
   <!-- EN: install prosthetic hand -->
-  <InstallSimpleProstheticHand.label>TODO</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.label>安装假手</InstallSimpleProstheticHand.label>
   <!-- EN: Install a prosthetic hand. -->
-  <InstallSimpleProstheticHand.description>TODO</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.description>安装假手。</InstallSimpleProstheticHand.description>
   <!-- EN: Installing prosthetic hand. -->
-  <InstallSimpleProstheticHand.jobString>TODO</InstallSimpleProstheticHand.jobString>
+  <InstallSimpleProstheticHand.jobString>正在安装假手。</InstallSimpleProstheticHand.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>安装假腿</InstallSimpleProstheticLeg.label>
@@ -44,10 +44,10 @@
   <InstallSimpleProstheticLeg.jobString>正在安装假腿。</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: install prosthetic toe -->
-  <InstallSimpleProstheticToe.label>TODO</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.label>安装假趾</InstallSimpleProstheticToe.label>
   <!-- EN: Install a prosthetic toe. -->
-  <InstallSimpleProstheticToe.description>TODO</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.description>安装假趾。</InstallSimpleProstheticToe.description>
   <!-- EN: Installing prosthetic toe. -->
-  <InstallSimpleProstheticToe.jobString>TODO</InstallSimpleProstheticToe.jobString>
+  <InstallSimpleProstheticToe.jobString>正在安装假趾。</InstallSimpleProstheticToe.jobString>
   
 </LanguageData>

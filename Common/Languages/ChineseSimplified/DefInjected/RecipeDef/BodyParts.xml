@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install field finger -->
-  <InstallFieldFinger.label>TODO</InstallFieldFinger.label>
+  <InstallFieldFinger.label>安装务农指</InstallFieldFinger.label>
   <!-- EN: Install a field finger. -->
-  <InstallFieldFinger.description>TODO</InstallFieldFinger.description>
+  <InstallFieldFinger.description>安装务农指。</InstallFieldFinger.description>
   <!-- EN: Installing field finger. -->
-  <InstallFieldFinger.jobString>TODO</InstallFieldFinger.jobString>
+  <InstallFieldFinger.jobString>正在安装务农指。</InstallFieldFinger.jobString>
   
   <!-- EN: install mechanical finger -->
-  <InstallMechanicalFinger.label>TODO</InstallMechanicalFinger.label>
+  <InstallMechanicalFinger.label>安装机械指</InstallMechanicalFinger.label>
   <!-- EN: Install a mechanical finger. -->
-  <InstallMechanicalFinger.description>TODO</InstallMechanicalFinger.description>
+  <InstallMechanicalFinger.description>安装机械指。</InstallMechanicalFinger.description>
   <!-- EN: Installing mechanical finger. -->
-  <InstallMechanicalFinger.jobString>TODO</InstallMechanicalFinger.jobString>
+  <InstallMechanicalFinger.jobString>正在安装机械指</InstallMechanicalFinger.jobString>
   
   <!-- EN: install mechanical internal support -->
-  <InstallMechanicalInternalSupport.label>TODO</InstallMechanicalInternalSupport.label>
+  <InstallMechanicalInternalSupport.label>安装机械支撑骨</InstallMechanicalInternalSupport.label>
   <!-- EN: Install a mechanical internal support. -->
-  <InstallMechanicalInternalSupport.description>TODO</InstallMechanicalInternalSupport.description>
+  <InstallMechanicalInternalSupport.description>安装机械支撑骨。</InstallMechanicalInternalSupport.description>
   <!-- EN: Installing replacement mechanical internal support. -->
-  <InstallMechanicalInternalSupport.jobString>TODO</InstallMechanicalInternalSupport.jobString>
+  <InstallMechanicalInternalSupport.jobString>正在安装机械支撑骨。</InstallMechanicalInternalSupport.jobString>
   
   <!-- EN: install mechanical manipulator -->
-  <InstallMechanicalManipulator.label>TODO</InstallMechanicalManipulator.label>
+  <InstallMechanicalManipulator.label>安装机械手</InstallMechanicalManipulator.label>
   <!-- EN: Install a mechanical manipulator. -->
-  <InstallMechanicalManipulator.description>TODO</InstallMechanicalManipulator.description>
+  <InstallMechanicalManipulator.description>安装机械手。</InstallMechanicalManipulator.description>
   <!-- EN: Installing mechanical manipulator. -->
-  <InstallMechanicalManipulator.jobString>TODO</InstallMechanicalManipulator.jobString>
+  <InstallMechanicalManipulator.jobString>正在安装机械手</InstallMechanicalManipulator.jobString>
   
 </LanguageData>

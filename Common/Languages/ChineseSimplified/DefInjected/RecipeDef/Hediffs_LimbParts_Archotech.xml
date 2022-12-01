@@ -9,39 +9,39 @@
   <InstallArchotechArm.jobString>正在安装超凡仿生臂。</InstallArchotechArm.jobString>
   
   <!-- EN: install archotech finger -->
-  <InstallArchotechFinger.label>TODO</InstallArchotechFinger.label>
+  <InstallArchotechFinger.label>安装超凡仿生指</InstallArchotechFinger.label>
   <!-- EN: Install an archotech finger. -->
-  <InstallArchotechFinger.description>TODO</InstallArchotechFinger.description>
+  <InstallArchotechFinger.description>安装超凡仿生指。</InstallArchotechFinger.description>
   <!-- EN: Installing archotech finger. -->
-  <InstallArchotechFinger.jobString>TODO</InstallArchotechFinger.jobString>
+  <InstallArchotechFinger.jobString>正在安装超凡仿生指。</InstallArchotechFinger.jobString>
   
   <!-- EN: install archotech foot -->
-  <InstallArchotechFoot.label>TODO</InstallArchotechFoot.label>
+  <InstallArchotechFoot.label>安装超凡仿生足</InstallArchotechFoot.label>
   <!-- EN: Install an archotech foot. -->
-  <InstallArchotechFoot.description>TODO</InstallArchotechFoot.description>
+  <InstallArchotechFoot.description>安装超凡仿生足。</InstallArchotechFoot.description>
   <!-- EN: Installing archotech foot. -->
-  <InstallArchotechFoot.jobString>TODO</InstallArchotechFoot.jobString>
+  <InstallArchotechFoot.jobString>正在安装超凡仿生足。</InstallArchotechFoot.jobString>
   
   <!-- EN: install archotech forearm -->
-  <InstallArchotechForearm.label>TODO</InstallArchotechForearm.label>
+  <InstallArchotechForearm.label>安装超凡仿生前臂</InstallArchotechForearm.label>
   <!-- EN: Install an archotech forearm. -->
-  <InstallArchotechForearm.description>TODO</InstallArchotechForearm.description>
+  <InstallArchotechForearm.description>安装超凡仿生前臂。</InstallArchotechForearm.description>
   <!-- EN: Installing archotech forearm. -->
-  <InstallArchotechForearm.jobString>TODO</InstallArchotechForearm.jobString>
+  <InstallArchotechForearm.jobString>正在安装超凡仿生前臂。</InstallArchotechForearm.jobString>
   
   <!-- EN: install archotech hand -->
-  <InstallArchotechHand.label>TODO</InstallArchotechHand.label>
+  <InstallArchotechHand.label>安装超凡仿生手</InstallArchotechHand.label>
   <!-- EN: Install an archotech hand. -->
-  <InstallArchotechHand.description>TODO</InstallArchotechHand.description>
+  <InstallArchotechHand.description>安装超凡仿生手。</InstallArchotechHand.description>
   <!-- EN: Installing archotech hand. -->
-  <InstallArchotechHand.jobString>TODO</InstallArchotechHand.jobString>
+  <InstallArchotechHand.jobString>正在安装超凡仿生手。</InstallArchotechHand.jobString>
   
   <!-- EN: install archotech internal support -->
-  <InstallArchotechInternalSupport.label>TODO</InstallArchotechInternalSupport.label>
+  <InstallArchotechInternalSupport.label>安装超凡支撑骨</InstallArchotechInternalSupport.label>
   <!-- EN: Install an archotech internal support. -->
-  <InstallArchotechInternalSupport.description>TODO</InstallArchotechInternalSupport.description>
+  <InstallArchotechInternalSupport.description>安装超凡支撑骨。</InstallArchotechInternalSupport.description>
   <!-- EN: Installing archotech internal support. -->
-  <InstallArchotechInternalSupport.jobString>TODO</InstallArchotechInternalSupport.jobString>
+  <InstallArchotechInternalSupport.jobString>正在安装超凡支撑骨。</InstallArchotechInternalSupport.jobString>
   
   <!-- EN: install archotech leg -->
   <InstallArchotechLeg.label>安装超凡仿生腿</InstallArchotechLeg.label>
@@ -51,10 +51,10 @@
   <InstallArchotechLeg.jobString>正在安装超凡仿生腿。</InstallArchotechLeg.jobString>
   
   <!-- EN: install archotech toe -->
-  <InstallArchotechToe.label>TODO</InstallArchotechToe.label>
+  <InstallArchotechToe.label>安装超凡仿生趾</InstallArchotechToe.label>
   <!-- EN: Install an archotech toe. -->
-  <InstallArchotechToe.description>TODO</InstallArchotechToe.description>
+  <InstallArchotechToe.description>安装超凡仿生趾。</InstallArchotechToe.description>
   <!-- EN: Installing archotech toe. -->
-  <InstallArchotechToe.jobString>TODO</InstallArchotechToe.jobString>
+  <InstallArchotechToe.jobString>正在安装超凡仿生趾。</InstallArchotechToe.jobString>
   
 </LanguageData>

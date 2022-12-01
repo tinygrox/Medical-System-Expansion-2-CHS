@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: elbow blade module -->
-  <ElbowBladeModule.label>TODO</ElbowBladeModule.label>
+  <ElbowBladeModule.label>肘刀模块</ElbowBladeModule.label>
   <!-- EN: An installed elbow blade module. -->
-  <ElbowBladeModule.description>TODO</ElbowBladeModule.description>
+  <ElbowBladeModule.description>一个安装在人体的肘刀模块</ElbowBladeModule.description>
   <!-- EN: blade -->
-  <ElbowBladeModule.comps.HediffComp_VerbGiver.tools.blade.label>TODO</ElbowBladeModule.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBladeModule.comps.HediffComp_VerbGiver.tools.blade.label>刀刃</ElbowBladeModule.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade module -->
-  <ElbowBladeModule.labelNoun>TODO</ElbowBladeModule.labelNoun>
+  <ElbowBladeModule.labelNoun>一个肘刀模块</ElbowBladeModule.labelNoun>
   
   <!-- EN: hand talon module -->
-  <HandTalonModule.label>TODO</HandTalonModule.label>
+  <HandTalonModule.label>手爪模块</HandTalonModule.label>
   <!-- EN: An installed hand talon module. -->
-  <HandTalonModule.description>TODO</HandTalonModule.description>
+  <HandTalonModule.description>一个安装在人体的手爪模块。</HandTalonModule.description>
   <!-- EN: talon -->
-  <HandTalonModule.comps.HediffComp_VerbGiver.tools.talon.label>TODO</HandTalonModule.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalonModule.comps.HediffComp_VerbGiver.tools.talon.label>爪</HandTalonModule.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon module -->
-  <HandTalonModule.labelNoun>TODO</HandTalonModule.labelNoun>
+  <HandTalonModule.labelNoun>一个手爪模块</HandTalonModule.labelNoun>
   
   <!-- EN: knee spike module -->
-  <KneeSpikeModule.label>TODO</KneeSpikeModule.label>
+  <KneeSpikeModule.label>膝钉模块</KneeSpikeModule.label>
   <!-- EN: An installed knee spike module. -->
-  <KneeSpikeModule.description>TODO</KneeSpikeModule.description>
+  <KneeSpikeModule.description>一个安装在人体的膝钉模块。</KneeSpikeModule.description>
   <!-- EN: spike -->
-  <KneeSpikeModule.comps.HediffComp_VerbGiver.tools.spike.label>TODO</KneeSpikeModule.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpikeModule.comps.HediffComp_VerbGiver.tools.spike.label>尖刺</KneeSpikeModule.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike module -->
-  <KneeSpikeModule.labelNoun>TODO</KneeSpikeModule.labelNoun>
+  <KneeSpikeModule.labelNoun>一个膝钉模块</KneeSpikeModule.labelNoun>
   
   <!-- EN: venom talon module -->
-  <VenomTalonModule.label>TODO</VenomTalonModule.label>
+  <VenomTalonModule.label>毒爪模块</VenomTalonModule.label>
   <!-- EN: An installed venom talon module. -->
-  <VenomTalonModule.description>TODO</VenomTalonModule.description>
+  <VenomTalonModule.description>一个安装在人体的毒爪模块</VenomTalonModule.description>
   <!-- EN: venom talon -->
-  <VenomTalonModule.comps.HediffComp_VerbGiver.tools.venom_talon.label>TODO</VenomTalonModule.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalonModule.comps.HediffComp_VerbGiver.tools.venom_talon.label>毒爪</VenomTalonModule.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon module -->
-  <VenomTalonModule.labelNoun>TODO</VenomTalonModule.labelNoun>
+  <VenomTalonModule.labelNoun>一个毒爪模块</VenomTalonModule.labelNoun>
   
 </LanguageData>

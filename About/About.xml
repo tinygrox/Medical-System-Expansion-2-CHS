@@ -2,15 +2,14 @@
 <ModMetaData>
 
 	<name>Medical System Expansion 2 简中翻译</name>
-	<author>JonM0</author>
+	<author>tinygrox</author>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
 	<packageId>tinygrox.CHS.MSE2</packageId>
-	<url>https://github.com/</url>
+	<url>https://github.com/Medical-System-Expansion-2-CHS</url>
 	<description>
 		Medical System Expansion 2 的简中翻译
-
 	</description>
 	<modDependencies>
 		<li>
