@@ -5,21 +5,21 @@
 	<!-- EN: complete -->
   <LimbComplete>完整</LimbComplete>
 	<!-- EN: segment -->
-  <LimbSegment>部件</LimbSegment>
+  <LimbSegment>组段</LimbSegment>
 	<!-- EN: simple -->
   <LimbSimple>简易</LimbSimple>
 	<!-- EN: version -->
-  <LimbVersion>型号</LimbVersion>
+  <LimbVersion>用途</LimbVersion>
 	<!-- EN: compatible -->
   <LimbCompatible>兼容</LimbCompatible>
 	<!-- EN: not compatible -->
   <LimbIncompatible>不兼容</LimbIncompatible>
 	<!-- EN:  (current version) -->
-  <LimbSelected>（当前型号）</LimbSelected>
+  <LimbSelected>（当前用途）</LimbSelected>
 
 	<!-- Recipe Generation -->	
 	<!-- EN: make {0} segment -->
-  <RecipeMakeSegment>制作{0}部件</RecipeMakeSegment>
+  <RecipeMakeSegment>制作{0}组段</RecipeMakeSegment>
 
 	<!-- EN: assemble {0} -->
   <RecipeMakeUpgrade>组装{0}</RecipeMakeUpgrade>
@@ -29,9 +29,9 @@
   <!-- EN: make complete {0} -->
   <RecipeMakeForLimbNoComparison>制作完整{0}</RecipeMakeForLimbNoComparison>
 	<!-- EN: Make {0} {1}. It will be installable on the following races: {2}. -->
-  <RecipeMakeForLimbDescription>制作{0} {1}。可在以下种族使用：{2}</RecipeMakeForLimbDescription>
+  <RecipeMakeForLimbDescription>制作{0}{1}。可对以下种族安装使用：{2}。</RecipeMakeForLimbDescription>
 	<!-- EN: Making {0} ({1}). -->
-  <RecipeMakeForLimbJobString>正在制作{0}（{1}）</RecipeMakeForLimbJobString>
+  <RecipeMakeForLimbJobString>正在制作{0}（{1}）。</RecipeMakeForLimbJobString>
 
 	<!-- Dialog StatsReports -->
 
@@ -43,31 +43,31 @@
 
 	<!-- CompIncludedChildParts -->
 	<!-- EN: Includes {0} direct subparts. -->
-  <CompIncludedChildParts_InspectStringIncludes>TODO</CompIncludedChildParts_InspectStringIncludes>
+  <CompIncludedChildParts_InspectStringIncludes>包括{0}直装子部件</CompIncludedChildParts_InspectStringIncludes>
 	<!-- EN: Version: {0} -->
-  <CompIncludedChildParts_InspectStringTarget>型号：{0}</CompIncludedChildParts_InspectStringTarget>
+  <CompIncludedChildParts_InspectStringTarget>用途：{0}</CompIncludedChildParts_InspectStringTarget>
 	<!-- EN:  ({0} missing parts) -->
-  <CompIncludedChildParts_InspectStringMissing>TODO</CompIncludedChildParts_InspectStringMissing>
+  <CompIncludedChildParts_InspectStringMissing>（{0} 缺失部件）</CompIncludedChildParts_InspectStringMissing>
 	<!-- EN: Included subparts -->
-  <CompIncludedChildParts_StatIncludedParts_Label>TODO</CompIncludedChildParts_StatIncludedParts_Label>
+  <CompIncludedChildParts_StatIncludedParts_Label>包括子部件</CompIncludedChildParts_StatIncludedParts_Label>
 	<!-- EN: When implanted it will also install theese: -->
-  <CompIncludedChildParts_StatIncludedParts_Description>TODO</CompIncludedChildParts_StatIncludedParts_Description>
+  <CompIncludedChildParts_StatIncludedParts_Description>当植入此部件时也会同时安装这些：</CompIncludedChildParts_StatIncludedParts_Description>
 	<!-- EN: Compatibile versions -->
-  <CompIncludedChildParts_StatCompatibility_Label>TODO</CompIncludedChildParts_StatCompatibility_Label>
+  <CompIncludedChildParts_StatCompatibility_Label>兼容用途</CompIncludedChildParts_StatCompatibility_Label>
 	<!-- EN: {0} of {1} -->
-  <CompIncludedChildParts_StatCompatibility_Value>TODO</CompIncludedChildParts_StatCompatibility_Value>
+	<CompIncludedChildParts_StatCompatibility_Value>{0}的{1}</CompIncludedChildParts_StatCompatibility_Value>
 	<!-- EN: Missing parts -->
-  <CompIncludedChildParts_StatMissing_Label>TODO</CompIncludedChildParts_StatMissing_Label>
+  <CompIncludedChildParts_StatMissing_Label>缺失部件</CompIncludedChildParts_StatMissing_Label>
 	<!-- EN: The following parts are missing: -->
-  <CompIncludedChildParts_StatMissing_Description>TODO</CompIncludedChildParts_StatMissing_Description>
+  <CompIncludedChildParts_StatMissing_Description>下列部件已缺失：</CompIncludedChildParts_StatMissing_Description>
 	<!-- EN: No parts are missing. -->
-  <CompIncludedChildParts_StatMissing_Desc_None>TODO</CompIncludedChildParts_StatMissing_Desc_None>
+  <CompIncludedChildParts_StatMissing_Desc_None>无缺失部件。</CompIncludedChildParts_StatMissing_Desc_None>
 
 	<!-- ModuleHolder -->
 	<!-- EN: Module slots -->
   <ModuleHolder_Compatible_Label>模块插槽</ModuleHolder_Compatible_Label>
 	<!-- EN: The following modules can be installed in slots belonging to this bionic: -->
-  <ModuleHolder_Compatible_ReportText>TODO</ModuleHolder_Compatible_ReportText>
+  <ModuleHolder_Compatible_ReportText>该仿生体的插槽可安装以下模块：</ModuleHolder_Compatible_ReportText>
 
 
 	<!-- Bills -->

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outer blade module -->
+  <CONN_hediff_OuterBlade.label>螳螂刀模块</CONN_hediff_OuterBlade.label>
+  <!-- EN: A combat-oriented forearm module consisting of a mechanical implementation with a telescopic blade behind the ulna. It is deadly in combat, and its plasteel breakout weapon can pierce through nearly anything due to the hydraulic forces applied. The blade can be retracted and is easy to hide. -->
+  <CONN_hediff_OuterBlade.description>针对战斗场景的前臂义体模块，在尺骨后方的机械装置可以让刀刃灵活运用。在战斗中使用非常致命，同时里面的液压加速装置让这种玻璃钢材质的武器可以穿透几乎任何物体。刀片可缩回，便于隐藏。</CONN_hediff_OuterBlade.description>
+  <!-- EN: an outer blade module -->
+  <CONN_hediff_OuterBlade.labelNoun>一个螳螂刀模块</CONN_hediff_OuterBlade.labelNoun>
+  
+</LanguageData>

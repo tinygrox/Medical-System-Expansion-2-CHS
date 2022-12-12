@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outer blade module -->
+  <CONN_OuterBlade.label>螳螂刀模块</CONN_OuterBlade.label>
+  <!-- EN: A combat-oriented forearm module consisting of a mechanical implementation with a telescopic blade behind the ulna. It is deadly in combat, and its plasteel breakout weapon can pierce through nearly anything due to the hydraulic forces applied. The blade can be retracted and is easy to hide. -->
+  <CONN_OuterBlade.description>TODO</CONN_OuterBlade.description>
+  
+</LanguageData>

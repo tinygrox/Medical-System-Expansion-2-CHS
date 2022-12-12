@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy fist module -->
+  <CONN_hediff_EnergyFist.label>充能铁拳模块</CONN_hediff_EnergyFist.label>
+  <!-- EN: A combat-oriented hand module consisting of a pumping system inside the wrist. The pump allows for quick, controlled punches. The mechanical trigger lets you have control about its sheer power with its powerful speed boosts bounded on neural connectors and energized by an ultratech micro-battery. -->
+  <CONN_hediff_EnergyFist.description>一个面向战斗场景的手部模块，部件主要由一个高科技手掌和手腕处的泵送系统组成。其中的泵送系统能够给拳头提供一个快速可控的加速度，用来打击敌人。上面有个绑定在神经连接器上的强力增速器，由内置的超高科技微型电池进行供电，纯机械驱动的构造能让你完全掌控这个义体。</CONN_hediff_EnergyFist.description>
+  <!-- EN: an energy fist -->
+  <CONN_hediff_EnergyFist.labelNoun>充能铁拳</CONN_hediff_EnergyFist.labelNoun>
+  
+</LanguageData>

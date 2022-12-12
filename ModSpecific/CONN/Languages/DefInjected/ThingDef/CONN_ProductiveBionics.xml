@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hover feet module -->
+  <CONN_HoverFeet.label>悬浮足模块</CONN_HoverFeet.label>
+  <!-- EN: A self-sustaining hover board mounted on a rail adapter transplantation directly linked to the bones inside the foot. Young street gangs used this once upon a time to escape after committing crimes on Urbworlds. It enhances movement speed by gliding. -->
+  <CONN_HoverFeet.description>TODO</CONN_HoverFeet.description>
+  
+</LanguageData>

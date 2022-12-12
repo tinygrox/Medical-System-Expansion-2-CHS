@@ -3,25 +3,30 @@
 
 	<!-- HediffHideModeSetting -->
 	<!-- EN: Hide standard sub-parts -->
-  <HediffHideModeSetting_Title>TODO</HediffHideModeSetting_Title>
+  <HediffHideModeSetting_Title>隐藏标准子部件</HediffHideModeSetting_Title>
 	<!-- EN: Choose when standard subparts should be hidden in the Health Overview tab.
  - Always: standard sub-parts will be always hidden
  - Never: standard sub-parts will be always visible
  - Clean: standard sub-parts will be hidden when there are no other hediffs on their part
  - Clean or modules: standard sub-parts will be hidden when there are no other hediffs on their part or they only have modules -->
-  <HediffHideModeSetting_Description>TODO</HediffHideModeSetting_Description>
+  <HediffHideModeSetting_Description>标准部件在健康面板中的隐藏形式
+	- 总是：标准子部件将总是隐藏
+	- 从不：标准子部件将总是显示
+	- 简要：标准子部件将会隐藏
+	- 模块：标准子部件将会隐藏
+  </HediffHideModeSetting_Description>
 	<!-- EN: Always -->
-  <HediffHideModeSetting_Always>TODO</HediffHideModeSetting_Always>
+  <HediffHideModeSetting_Always>总是</HediffHideModeSetting_Always>
 	<!-- EN: Never -->
-  <HediffHideModeSetting_Never>TODO</HediffHideModeSetting_Never>
+  <HediffHideModeSetting_Never>从不</HediffHideModeSetting_Never>
 	<!-- EN: Clean -->
-  <HediffHideModeSetting_Clean>TODO</HediffHideModeSetting_Clean>
+  <HediffHideModeSetting_Clean>简要</HediffHideModeSetting_Clean>
 	<!-- EN: Clean or modules -->
-  <HediffHideModeSetting_CleanOrModules>TODO</HediffHideModeSetting_CleanOrModules>
+  <HediffHideModeSetting_CleanOrModules>模块</HediffHideModeSetting_CleanOrModules>
 
 	<!-- RemoveAllFromSegmentSetting -->
 	<!-- EN: Remove all sub-parts from segment version -->
-  <RemoveAllFromSegmentSetting_Title>TODO</RemoveAllFromSegmentSetting_Title>
+  <RemoveAllFromSegmentSetting_Title>移除组段用途仿生体的所有子部件</RemoveAllFromSegmentSetting_Title>
 	<!-- EN: Enabling this will remove and spawn all sub-parts after switching a prosthetic to Segment version. -->
   <RemoveAllFromSegmentSetting_Description>TODO</RemoveAllFromSegmentSetting_Description>
 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install energy fist module -->
+  <CONN_InstallEnergyFist.label>安装充能铁拳模块</CONN_InstallEnergyFist.label>
+  <!-- EN: Install energy fist module. -->
+  <CONN_InstallEnergyFist.description>安装充能铁拳模块。</CONN_InstallEnergyFist.description>
+  <!-- EN: Installing energy fist. -->
+  <CONN_InstallEnergyFist.jobString>正在安装充能铁拳。</CONN_InstallEnergyFist.jobString>
+  
+</LanguageData>

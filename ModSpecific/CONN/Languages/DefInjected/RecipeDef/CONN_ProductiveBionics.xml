@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install hover foot module -->
+  <CONN_InstallHoverFeet.label>安装悬浮足模块</CONN_InstallHoverFeet.label>
+  <!-- EN: Install hover foot module. -->
+  <CONN_InstallHoverFeet.description>安装悬浮足模块。</CONN_InstallHoverFeet.description>
+  <!-- EN: Installing hover foot. -->
+  <CONN_InstallHoverFeet.jobString>正在安装悬浮足模块。</CONN_InstallHoverFeet.jobString>
+  
+</LanguageData>

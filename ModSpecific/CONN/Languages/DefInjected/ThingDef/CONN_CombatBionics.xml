@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy fist module -->
+  <CONN_EnergyFist.label>充能铁拳模块</CONN_EnergyFist.label>
+  <!-- EN: A combat-oriented hand module consisting of a pumping system inside the wrist. The pump allows for quick, controlled punches. The mechanical trigger lets you have control about its sheer power with its powerful speed boosts bounded on neural connectors and energized by an ultratech micro-battery. -->
+  <CONN_EnergyFist.description>TODO</CONN_EnergyFist.description>
+  
+</LanguageData>

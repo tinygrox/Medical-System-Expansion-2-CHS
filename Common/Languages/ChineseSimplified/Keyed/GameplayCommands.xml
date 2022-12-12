@@ -16,16 +16,16 @@
 	<!-- EN: Select version -->
   <Command_SetTargetLimb_Label>选择型号</Command_SetTargetLimb_Label>
 	<!-- EN: Choose what limb this will replace -->
-  <Command_SetTargetLimb_Description>选择要替换的肢体</Command_SetTargetLimb_Description>
+  <Command_SetTargetLimb_Description>选择此仿生体要替换掉的肢体</Command_SetTargetLimb_Description>
 	<!-- EN: Segment -->
-  <Command_SetTargetLimb_NoTarget>部件</Command_SetTargetLimb_NoTarget>
+  <Command_SetTargetLimb_NoTarget>组段</Command_SetTargetLimb_NoTarget>
 
 	<!-- Command_SplitOffSubpart -->
 	<!-- EN: Remove sub-part -->
   <CommandSplitOffSubpart_Label>移除子部件</CommandSplitOffSubpart_Label>
 	<!-- EN: Choose a part to remove from this one's subparts. -->
-  <CommandSplitOffSubpart_Description>TODO</CommandSplitOffSubpart_Description>
+  <CommandSplitOffSubpart_Description>从部件中选择要移除的子部件。</CommandSplitOffSubpart_Description>
 	<!-- EN: {0} (from {1}) -->
-	<CommandSplitOffSubpart_RemoveFrom>{0}(从{1})</CommandSplitOffSubpart_RemoveFrom>
+	<CommandSplitOffSubpart_RemoveFrom>{0}(来自{1})</CommandSplitOffSubpart_RemoveFrom>
 
 </LanguageData>

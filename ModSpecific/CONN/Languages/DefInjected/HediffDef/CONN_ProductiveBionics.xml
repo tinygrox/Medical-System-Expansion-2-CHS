@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hover foot module -->
+  <CONN_hediff_HoverFeet.label>悬浮足模块</CONN_hediff_HoverFeet.label>
+  <!-- EN: A self-sustaining hover board mounted on a rail adapter transplantation directly linked to the bones inside the foot. Young street gangs used this once upon a time to escape after committing crimes on Urbworlds. It enhances movement speed by gliding. -->
+  <CONN_hediff_HoverFeet.description>一块可悬停在空中的悬浮滑板模块，安装在要直接移植到足部与骨头相连的类似于枪支导轨的组件上面。那些在都市世界的街头小混混曾经有段时间人手一个就是因为这个能帮他们在犯罪后马上跑路。提供的滑行功能提高了移动速度。</CONN_hediff_HoverFeet.description>
+  <!-- EN: an hover foot module -->
+  <CONN_hediff_HoverFeet.labelNoun>悬浮足模块</CONN_hediff_HoverFeet.labelNoun>
+  
+</LanguageData>

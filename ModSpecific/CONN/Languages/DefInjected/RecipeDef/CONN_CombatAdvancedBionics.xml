@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install outer blade module -->
+  <CONN_InstallOuterBlade.label>安装螳螂刀模块</CONN_InstallOuterBlade.label>
+  <!-- EN: Install outer blade module. -->
+  <CONN_InstallOuterBlade.description>安装螳螂刀模块。</CONN_InstallOuterBlade.description>
+  <!-- EN: Installing outer blade. -->
+  <CONN_InstallOuterBlade.jobString>正在安装螳螂刀模块。</CONN_InstallOuterBlade.jobString>
+  
+</LanguageData>

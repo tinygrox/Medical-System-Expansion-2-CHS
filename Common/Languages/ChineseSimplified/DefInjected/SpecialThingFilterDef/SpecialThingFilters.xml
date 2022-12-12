@@ -4,11 +4,11 @@
   <!-- EN: allow complete -->
   <AllowProsthesesComplete.label>允许完全仿生体</AllowProsthesesComplete.label>
   <!-- EN: Allow prostheses that are not missing any sub-part. -->
-  <AllowProsthesesComplete.description>允许仿生体插满子模块。</AllowProsthesesComplete.description>
+  <AllowProsthesesComplete.description>允许子模块完整的仿生体。</AllowProsthesesComplete.description>
   
   <!-- EN: allow incomplete -->
   <AllowProsthesesIncomplete.label>允许不完全仿生体</AllowProsthesesIncomplete.label>
   <!-- EN: Allow prostheses that are missing some sub-parts for the selected version. -->
-  <AllowProsthesesIncomplete.description>允许选择的仿生体缺少某些子模块。</AllowProsthesesIncomplete.description>
+  <AllowProsthesesIncomplete.description>允许子模块缺失的仿生体。</AllowProsthesesIncomplete.description>
   
 </LanguageData>
